@@ -64,11 +64,12 @@ This pipeline enforces all of the above.
 
 ### Schema-Level Enforcement (SQLite)
 
-sql
+```sql
 PRIMARY KEY (run_id, customer_id)
 UNIQUE (run_id, email)
 CHECK (balance >= 0)
 CHECK (currency IN ('USD','INR'))
+```
 
 ### Reconciliation Guarantee
 
@@ -85,6 +86,7 @@ Total Raw = Total Clean + Total Rejected
 
 ## Project Structure 
 
+```
 enterprise-data-migration/
 │
 ├── data/
@@ -93,7 +95,7 @@ enterprise-data-migration/
 ├── sql/
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Technologies Used
 
@@ -123,7 +125,7 @@ notebooks/04_validation.ipynb
 ### Generate Critical Data Quality Report
 notebooks/05_generate_critical_report.ipynb
 
-This project reflects real-world migration systems used in:
+### This project reflects real-world migration systems used in:
 
 - ERP transitions  
 - Banking & financial systems  
