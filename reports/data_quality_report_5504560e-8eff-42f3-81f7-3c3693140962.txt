@@ -1,0 +1,39 @@
+ENTERPRISE DATA MIGRATION – CRITICAL DATA QUALITY REPORT
+==============================================================
+Run ID          : 5504560e-8eff-42f3-81f7-3c3693140962
+Generated (UTC) : 2026-02-11T19:46:38+00:00
+
+Record Counts
+--------------------
+Source File     : data/legacy_customers.csv
+Total raw records      : 1050
+Total clean loaded     : 96
+Total rejected (audit) : 954
+
+Reconciliation
+--------------------
+Raw = Clean + Rejected : PASS
+
+Critical Business Validations
+--------------------------------
+Duplicate keys in clean target         : PASS (count=0)
+ACTIVE accounts without VERIFIED KYC   : PASS (count=0)
+Negative balances in target            : PASS (count=0)
+Unsupported currency values in target  : PASS (count=0)
+
+Rejected Records Summary (Top Reasons)
+------------------------------------
+- invalid_signup_date: 310
+- invalid_signup_date;missing_account_status: 82
+- invalid_signup_date;active_requires_verified_kyc: 78
+- invalid_signup_date;invalid_currency: 51
+- missing_account_status: 40
+- invalid_signup_date;active_requires_verified_kyc;missing_kyc_for_active_account: 34
+- active_requires_verified_kyc: 31
+- invalid_signup_date;invalid_currency;missing_account_status: 23
+- invalid_signup_date;invalid_credit_score: 19
+- invalid_currency: 18
+
+Final Sign-off Status
+----------------------
+Migration Status: PASS

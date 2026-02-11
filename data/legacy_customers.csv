@@ -1,0 +1,1051 @@
+customer_id,full_name,email,country,signup_date,credit_score,account_status,kyc_status,last_updated,balance,currency
+10352,Asha Kumar,ashakumar185@company.com,United States,07/11/2022,200,active,VERIFIED,10-09-2022,1509.02,usd
+10689,John Rao,johnrao255@company.com,U.S.,2022-05-16,abc,active,VERIFIED,2023-01-13,1786.5,INR
+10485,Miguel Wilson,miguelwilson940@gmail.com,U.S.,06-06-2022,612,active,VERIFIED,13-10-2022,2243.83,
+10388,,user875@gmail.com,IN,2022/06/04,679,INACTIVE,VERIFIED,12-10-2022,-173.17,INR
+10031,Meera Brown,meerabrown570@company.com,USA,24-11-2022,594,active,verified,invalid_date,1902.89,INR
+10442,John Garcia,johngarcia132@gmail.com,india,29-08-2023,633,SUSPENDED,FAILED,2024/09/16,3222.43,INR
+10198,John Shah,johnshah396@gmail.com,India,2021-13-01,793,,verified,invalid_date,801.06,EURO
+10425,Miguel Patel,miguelpatel170@outlook.com,U.S.,01/06/2021,630,ACTIVE,VERIFIED,2023/10/14,1198.91,INR
+10107,Arjun Kumar,arjunkumar247@outlook.com,india,07-09-2021,648,INACTIVE,verified,2022/09/06,4595.58,usd
+10714,Arjun Smith,arjunsmith116@gmail.com,,,573,active,PENDING,2022/07/13,315.04,INR 
+10552,Priya Kim,priyakim297@outlook.com,United States of America,04-12-2023,725,INACTIVE,VERIFIED,31-08-2023,1772.75,INR 
+10675,John Shah,johnshah444@outlook.com,IN,23/03/2020,729,INACTIVE,,2022-01-11,838.14,INR 
+10158,Priya Shah,priyashah229@company.com,United States,13/02/2022,abc,,verified,21-05-2024,,EURO
+10475,Ravi Iyer,raviiyer482@company.com,U.S.,19/01/2024,,ACTIVE,PENDING,2022-03-03,702.62,INR
+10423,Alice Singh,alicesingh395@gmail.com,United States,2021/02/01,662,SUSPENDED,VERIFIED,2023/10/29,1060.23,USD
+10210,Priya Shah,priyashah663@yahoo.com,U.S.,2021-13-01,664,ACTIVE,VERIFIED,2024/05/01,2521.52,INR 
+10617,Ravi Kim,ravikim845@outlook.com,United States,11-04-20,,INACTIVE,FAILED,10-08-2023,2561.34,usd
+10483,Chen Kim,chenkim996@gmail.com,United States of America,22/03/2020,710,SUSPENDED,,2024/05/15,3347.44,EURO
+10884,Arjun Lee,,US,02-01-24,598,INACTIVE,,2023/10/27,1024.42,EURO
+10650,Chen Kim,chenkim884@company.com,USA,2023-06-02,750,,verified,2024-01-18,2927.93,INR
+10244,Priya Iyer,bad-email@@,USA,2021-13-01,200,INACTIVE,FAILED,23-01-2022,4579.38,EURO
+10847,David Smith,davidsmith930@company.com,U.S.,10-13-22,676,ACTIVE,FAILED,2023/03/30,2010.88,INR
+10982,Miguel Lee,miguellee518@gmail.com,IN,2023-07-24,677,INACTIVE,verified,2023/04/11,4818.69,USD
+10828,Meera Kumar,meerakumar819@gmail.com,IN,2021-10-11,637,active,,2024-01-26,1278.69,EURO
+10570,Nina Johnson,ninajohnson950@company.com,United States,12-02-20,583,ACTIVE,FAILED,20-12-2023,2184.69,USD
+10059,Ravi Johnson,ravijohnson360@company.com,USA,06-01-2021,700,,PENDING,2023/01/21,1420.51,usd
+10290,Ravi Kim,,United States,02/06/2021,785,active,FAILED,2022-09-21,124.41,INR 
+10070,Ravi Rao,ravirao993@yahoo.com,United States of America,04/06/2023,629,active,PENDING,12-01-2023,2200.74,usd
+10344,Omar Kumar,,india,10/07/2023,638,INACTIVE,,2023/12/04,4342.23,INR
+10184,Li Rao,,United States,2020/07/31,693,SUSPENDED,,30-01-2022,479.41,INR 
+10141,John Johnson,johnjohnson519@outlook.com,India,07-11-23,609,INACTIVE,FAILED,27-03-2022,4866.43,INR
+10390,Meera Patel,meerapatel842@gmail.com,IN,30-11-2022,626,,VERIFIED,2022-03-29,4428.44,
+10491,Li Shah,lishah90@gmail.com,US,2020-07-02,773,ACTIVE,verified,2023-05-31,4228.87,INR
+10826,Sara Wilson,sarawilson552@outlook.com,United States of America,26/07/2021,742,SUSPENDED,,10-10-2023,1691.29,usd
+10101,Karthik Iyer,,india,01-08-24,768,active,verified,2023/08/01,1402.48,USD
+10749,Karthik Singh,karthiksingh446@yahoo.com,USA,07-20-22,684,active,,2023-10-05,4366.82,INR 
+10551,John Rao,johnrao926@outlook.com,U.S.,26-12-2021,716,SUSPENDED,,16-09-2023,,
+10306,Asha Brown,ashabrown882@gmail.com,US,27/02/2022,618,,PENDING,17-03-2024,3625.96,USD
+10986,Arjun Singh,arjunsingh547@outlook.com,U.S.,12-15-20,,SUSPENDED,verified,29-07-2022,4433.77,INR
+10321,,user422@outlook.com,IN,2020-11-29,643,,,2023-12-31,4563.36,USD
+10799,Nina Lee,ninalee22@company.com,,09-26-21,633,INACTIVE,PENDING,2022/10/29,2711.21,USD
+10730,Li Kumar,likumar806@yahoo.com,USA,28-10-2021,,,VERIFIED,2023-02-08,4201.99,INR
+10677,Miguel Patel,,United States,07-08-2020,694,ACTIVE,VERIFIED,invalid_date,4324.83,EURO
+10653,,user880@company.com,US,19-12-2020,700,INACTIVE,,2023/01/19,4374.29,INR
+10076,Sara Garcia,saragarcia713@outlook.com,United States of America,17-07-2023,738,ACTIVE,PENDING,invalid_date,2479.99,EURO
+10192,Meera Nguyen,meeranguyen728@yahoo.com,United States,10-28-22,727,,verified,22-11-2023,4205.97,USD
+10086,Sara Rao,sararao134@outlook.com,IN,11-20-22,641,ACTIVE,FAILED,26-08-2024,4805.97,INR
+10458,John Garcia,johngarcia276@gmail.com,IN,28/07/2021,999,INACTIVE,FAILED,29-04-2023,761.17,INR 
+10439,Alice Garcia,alicegarcia643@yahoo.com,U.S.,2021-05-16,767,active,,29-10-2022,,INR 
+10918,Ravi Das,ravidas888@company.com,USA,2023-09-08,200,,PENDING,2023-09-22,4161.15,INR
+10660,Li Wilson,liwilson420@company.com,USA,2022/05/01,697,ACTIVE,VERIFIED,20-01-2024,2717.41,USD
+10309,Li Das,lidas914@yahoo.com,United States of America,2020-06-27,777,ACTIVE,PENDING,2023-05-24,3061.84,usd
+10743,Miguel Wilson,miguelwilson42@gmail.com,United States,26/09/2021,,ACTIVE,,2022-01-01,4464.69,INR 
+10873,David Das,daviddas436@gmail.com,United States,11/05/2021,569,active,FAILED,2023-12-19,1536.81,EURO
+10398,Arjun Rao,arjunrao944@yahoo.com,USA,06-15-23,646,SUSPENDED,PENDING,21-05-2024,888.04,USD
+10616,Sara Rao,sararao975@outlook.com,USA,2023/09/12,640,active,VERIFIED,2022/04/14,1721.13,usd
+10049,Miguel Johnson,migueljohnson991@outlook.com,India,2021-11-24,691,active,,2023/01/10,,EURO
+10199,Alice Kumar,alicekumar642@gmail.com,US,07-03-2021,665,active,VERIFIED,2024-02-04,1524.92,USD
+10598,Priya Lee,priyalee622@outlook.com,US,2020/07/17,644,active,,2023-02-23,2916.09,usd
+10969,Li Kim,likim177@gmail.com,United States,2020/10/18,658,ACTIVE,FAILED,2024-05-27,715.97,
+10882,Arjun Smith,arjunsmith705@company.com,US,08-31-22,595,SUSPENDED,PENDING,2023-10-22,4793.79,EURO
+10428,Chen Smith,,,2020/01/15,771,SUSPENDED,,16-03-2023,4997.11,INR
+10497,Priya Shah,,U.S.,07/02/2022,785,,,invalid_date,4967.45,INR 
+10603,Miguel Rao,miguelrao450@gmail.com,United States of America,2024-01-26,696,,verified,2023-03-15,1165.0,EURO
+10010,Omar Garcia,omargarcia171@yahoo.com,U.S.,2022/09/21,,active,VERIFIED,2023/02/04,3422.28,
+10888,Meera Brown,meerabrown853@company.com,US,2020-03-12,,active,PENDING,2022/01/04,4752.98,EURO
+10670,Chen Kumar,chenkumar155@yahoo.com,U.S.,2021/10/10,658,,,2024-01-23,3892.2,USD
+10937,Meera Singh,meerasingh531@yahoo.com,U.S.,2020-12-26,677,SUSPENDED,PENDING,07-01-2024,4444.91,
+10928,David Lee,bad-email@@,india,2020-06-07,999,SUSPENDED,verified,08-03-2024,1196.53,usd
+10557,Omar Das,,IN,2020/03/19,541,ACTIVE,VERIFIED,2022/09/09,945.09,INR
+10636,Alice Smith,alicesmith843@outlook.com,United States,2021/05/11,645,ACTIVE,PENDING,2024-09-13,442.05,
+10833,Li Iyer,liiyer65@yahoo.com,United States of America,08-11-2023,785,INACTIVE,VERIFIED,2022-11-30,2747.75,EURO
+10371,Ravi Smith,,,28/04/2023,681,ACTIVE,FAILED,2022/09/23,3734.11,USD
+10834,Arjun Kim,arjunkim819@outlook.com,IN,09-08-23,555,SUSPENDED,FAILED,21-12-2023,2608.85,usd
+10582,Chen Lee,chenlee945@gmail.com,US,24-11-2022,628,ACTIVE,FAILED,2023/12/20,-158.93,INR 
+10333,Meera Lee,meeralee890@gmail.com,India,22/08/2020,,active,,2023/06/12,,INR 
+10945,David Patel,,IN,2021/11/06,685,INACTIVE,,2022/11/25,761.29,INR 
+10210,Priya Shah,priyashah663@yahoo.com,U.S.,2021-13-01,664,ACTIVE,,2022/05/31,2486.53,INR 
+10319,Asha Patel,ashapatel866@gmail.com,India,2021-13-01,707,INACTIVE,,2023-07-11,4820.53,usd
+10457,Asha Nguyen,ashanguyen136@gmail.com,U.S.,19/03/2020,737,ACTIVE,verified,22-02-2023,1003.42,usd
+10088,Miguel Wilson,miguelwilson868@gmail.com,US,01-06-2022,701,,,2022/07/19,2422.13,EURO
+10879,Karthik Nguyen,karthiknguyen699@outlook.com,US,2022/07/12,691,INACTIVE,verified,invalid_date,2686.46,INR 
+10350,Sara Rao,sararao321@gmail.com,USA,2020/09/18,717,SUSPENDED,,2024/04/29,2066.03,INR
+10218,Li Lee,lilee245@company.com,USA,2020-11-18,722,,VERIFIED,2024-01-25,3575.92,EURO
+10413,Priya Rao,,,2023-08-05,,ACTIVE,VERIFIED,2024-03-01,1748.15,INR
+10277,Priya Patel,priyapatel842@gmail.com,United States of America,26/12/2020,731,active,FAILED,2023-05-22,4048.57,EURO
+10959,Priya Johnson,priyajohnson20@gmail.com,India,2021/04/20,590,,VERIFIED,03-02-2022,3480.8,INR
+10925,Meera Shah,meerashah582@yahoo.com,U.S.,2021-12-05,730,active,PENDING,2023-03-21,4837.02,usd
+10213,Alice Patel,alicepatel919@gmail.com,U.S.,2022/12/05,628,active,FAILED,27-08-2023,2012.54,usd
+10096,Omar Smith,omarsmith548@yahoo.com,USA,2020/12/24,662,active,PENDING,2024/08/17,-151.81,EURO
+10078,Alice Singh,alicesingh329@company.com,US,12/06/2020,668,SUSPENDED,verified,2022/02/13,2061.69,
+10703,Omar Iyer,omariyer912@yahoo.com,USA,12-04-21,725,INACTIVE,,2022-05-23,1861.02,INR 
+10136,David Kumar,davidkumar671@gmail.com,IN,2021-05-27,827,INACTIVE,verified,2023-11-03,,INR 
+10208,Miguel Smith,,IN,07-30-20,680,active,verified,2023-01-10,1756.91,INR
+10522,Omar Smith,omarsmith860@outlook.com,USA,2020-06-22,555,,verified,2023-12-09,2840.01,EURO
+10837,Ravi Smith,ravismith138@gmail.com,IN,2022-03-24,674,,verified,16-06-2023,3354.71,
+10732,Miguel Garcia,miguelgarcia806@company.com,U.S.,05-29-21,760,ACTIVE,,2023-01-12,1944.55,INR 
+10568,Meera Brown,meerabrown944@gmail.com,US,2022-05-21,672,active,VERIFIED,2022/02/09,3976.4,INR 
+10260,,user904@yahoo.com,United States of America,03/07/2020,721,ACTIVE,VERIFIED,2023/12/25,3477.85,
+10467,Karthik Kumar,karthikkumar387@gmail.com,U.S.,2020-02-12,651,ACTIVE,FAILED,27-05-2022,,USD
+10039,Li Iyer,liiyer466@gmail.com,US,06/10/2021,643,,verified,28-02-2023,3733.5,
+10030,Ravi Rao,ravirao477@outlook.com,U.S.,02-06-24,684,INACTIVE,verified,2023/08/07,2370.39,usd
+10697,Meera Iyer,meeraiyer469@company.com,U.S.,17-05-2023,742,INACTIVE,VERIFIED,2023-09-24,3020.24,USD
+10451,Ravi Patel,ravipatel976@company.com,USA,2022/05/15,634,,VERIFIED,2022/10/25,-188.38,
+10054,Chen Lee,bad-email@@,India,17-04-2020,591,,,2022-04-22,25.5,
+10023,Miguel Iyer,migueliyer851@outlook.com,,02-07-2022,625,,verified,2023/10/04,1285.79,usd
+10513,Sara Kim,sarakim439@outlook.com,IN,12-02-2020,999,active,,2023/04/16,4716.33,USD
+10113,David Smith,davidsmith826@outlook.com,United States,2020-08-07,656,active,VERIFIED,2023/01/18,4949.21,INR
+10109,Li Nguyen,linguyen566@yahoo.com,IN,2021/08/02,685,active,VERIFIED,2024/04/02,1465.21,INR
+10506,Sara Wilson,sarawilson266@gmail.com,USA,2020-08-14,743,SUSPENDED,PENDING,2024/08/05,1460.53,INR
+10966,Sara Shah,sarashah158@outlook.com,United States of America,12-07-2023,,INACTIVE,FAILED,invalid_date,3866.09,usd
+10949,Chen Nguyen,chennguyen149@gmail.com,USA,2020-11-20,,SUSPENDED,verified,2024/04/06,2171.69,usd
+10003,Miguel Shah,miguelshah864@company.com,USA,2021-04-14,,,FAILED,2022/08/06,3142.83,INR
+10275,Miguel Brown,bad-email@@,United States of America,19/08/2020,691,,VERIFIED,2023-02-20,3177.15,usd
+10656,Li Garcia,ligarcia290@yahoo.com,IN,2020/10/04,650,active,VERIFIED,19-05-2023,1821.81,INR 
+10784,Karthik Patel,karthikpatel268@gmail.com,India,11-08-2023,647,INACTIVE,,2023/10/26,3299.6,INR
+10854,Omar Rao,bad-email@@,india,2023-09-29,690,,FAILED,2023/10/25,1854.0,EURO
+10759,Sara Kim,sarakim238@gmail.com,USA,20/07/2021,518,,,2024/06/10,3221.08,USD
+10796,Ravi Nguyen,ravinguyen298@company.com,USA,25-08-2020,659,SUSPENDED,FAILED,01-09-2022,3630.62,EURO
+10902,Arjun Wilson,arjunwilson764@gmail.com,U.S.,06-07-2022,677,,VERIFIED,2023/12/04,393.2,
+10394,Asha Wilson,ashawilson201@company.com,india,04-08-2023,671,,FAILED,2024/05/22,1977.22,INR
+10486,Nina Smith,ninasmith959@gmail.com,IN,2022/05/30,,active,FAILED,2022-09-16,1224.31,USD
+10614,David Lee,davidlee380@company.com,United States,19/09/2021,579,active,VERIFIED,2024-02-20,1638.78,INR
+10877,Miguel Iyer,migueliyer888@outlook.com,,2020/04/08,711,,PENDING,14-11-2022,3706.13,EURO
+10174,David Wilson,davidwilson301@yahoo.com,US,22-08-2022,695,SUSPENDED,VERIFIED,16-08-2022,1986.46,usd
+10917,Priya Rao,priyarao391@gmail.com,,2022-11-24,717,,PENDING,2022/03/10,603.78,EURO
+10058,Sara Patel,sarapatel230@outlook.com,US,12-18-21,743,,,2023-11-23,3220.72,
+10265,Arjun Garcia,arjungarcia112@gmail.com,,2020/06/28,615,SUSPENDED,FAILED,23-06-2023,474.51,EURO
+10063,Nina Iyer,ninaiyer448@gmail.com,US,2021/05/13,656,SUSPENDED,PENDING,2022-03-20,808.3,usd
+10789,Chen Patel,chenpatel247@yahoo.com,US,16-07-2023,520,active,VERIFIED,2024-01-11,2981.75,EURO
+10261,Karthik Nguyen,karthiknguyen45@outlook.com,United States,11-17-21,583,ACTIVE,verified,2022/11/12,739.62,INR
+10100,Li Garcia,ligarcia781@yahoo.com,india,10-25-23,701,,VERIFIED,05-03-2022,2590.63,INR
+10924,Miguel Singh,miguelsingh393@gmail.com,india,2023/12/05,744,SUSPENDED,FAILED,2023/02/24,3278.47,INR 
+10299,Priya Singh,priyasingh611@gmail.com,United States,2024/01/08,756,,PENDING,16-07-2022,3018.39,EURO
+10615,Chen Johnson,,india,03/03/2021,712,,PENDING,27-03-2024,1224.61,USD
+10178,Alice Wilson,,India,07-22-22,600,active,FAILED,2024/02/08,,INR
+10933,Li Garcia,ligarcia326@company.com,United States,04/03/2021,696,,verified,23-09-2022,3329.31,USD
+10778,Alice Lee,alicelee266@gmail.com,India,11-11-21,691,INACTIVE,VERIFIED,2023/06/15,3548.78,EURO
+10139,Arjun Brown,arjunbrown255@gmail.com,,05-15-23,abc,SUSPENDED,PENDING,2023-06-15,1336.82,USD
+10803,Chen Garcia,chengarcia258@gmail.com,india,2021/06/30,736,ACTIVE,VERIFIED,2024/05/02,-194.91,
+10168,Asha Iyer,ashaiyer138@yahoo.com,India,26/06/2022,728,active,verified,2024/02/17,2479.4,INR
+10066,Karthik Singh,karthiksingh461@gmail.com,india,10-20-21,,ACTIVE,FAILED,02-01-2024,1088.27,INR 
+10256,David Kumar,davidkumar27@yahoo.com,India,05-25-23,abc,ACTIVE,verified,18-05-2022,3177.76,INR
+10067,Karthik Garcia,karthikgarcia397@company.com,U.S.,2021-13-01,716,,verified,18-10-2022,2934.04,INR
+10986,Arjun Singh,arjunsingh547@outlook.com,U.S.,12-15-20,,SUSPENDED,FAILED,2024/06/03,3710.32,INR
+10012,Alice Shah,aliceshah593@yahoo.com,USA,2023-06-22,651,SUSPENDED,PENDING,29-09-2022,2177.57,USD
+10531,Sara Kumar,sarakumar195@outlook.com,india,2023/03/14,676,active,verified,2023-10-03,461.4,EURO
+10319,Asha Patel,ashapatel866@gmail.com,India,2021-13-01,707,INACTIVE,VERIFIED,07-10-2022,1651.12,usd
+10984,Alice Garcia,alicegarcia416@gmail.com,United States of America,2022/10/06,773,INACTIVE,VERIFIED,13-10-2023,4252.76,usd
+10866,Alice Lee,alicelee350@gmail.com,United States,2021-05-24,741,ACTIVE,PENDING,2023/01/04,2377.08,usd
+10576,Miguel Iyer,migueliyer178@outlook.com,United States of America,08-19-23,,INACTIVE,PENDING,2024-06-10,4198.18,USD
+10334,Sara Singh,sarasingh828@gmail.com,United States of America,23-07-2020,696,SUSPENDED,verified,2022-07-26,2586.34,usd
+10286,Ravi Wilson,raviwilson244@outlook.com,United States of America,26-01-2024,659,ACTIVE,VERIFIED,2022/06/21,3679.98,EURO
+10911,Li Brown,bad-email@@,U.S.,2022/10/02,717,SUSPENDED,VERIFIED,2022/03/16,476.04,INR 
+10323,Alice Singh,alicesingh20@gmail.com,United States of America,2022-06-02,684,SUSPENDED,VERIFIED,2022-03-09,3868.33,EURO
+10890,John Das,johndas629@outlook.com,India,2021-13-01,623,INACTIVE,verified,2023/03/06,1765.19,
+10536,Sara Brown,sarabrown244@gmail.com,india,2021-13-01,648,,,2022-02-16,1099.6,USD
+10692,Karthik Kumar,karthikkumar996@company.com,IN,2021-11-23,628,active,PENDING,2023-07-16,399.3,usd
+10649,Omar Brown,,India,12/03/2023,670,INACTIVE,verified,2022/08/09,3308.27,usd
+10528,Karthik Johnson,karthikjohnson599@company.com,U.S.,2021-13-01,623,active,verified,28-11-2022,348.25,INR
+10513,Sara Kim,sarakim439@outlook.com,IN,12-02-2020,999,active,,2022-01-02,34.92,USD
+10585,David Das,daviddas406@outlook.com,United States,2022-08-01,617,INACTIVE,verified,2022-04-03,4197.48,usd
+10002,Alice Smith,alicesmith876@gmail.com,india,2020/07/25,671,SUSPENDED,VERIFIED,16-09-2023,649.69,INR 
+10445,Li Shah,lishah430@yahoo.com,United States,2021/10/09,811,,verified,2022-03-09,1534.29,usd
+10237,Chen Shah,,IN,13-08-2023,743,SUSPENDED,verified,21-01-2024,3566.88,usd
+10495,,user586@gmail.com,U.S.,21-02-2020,684,INACTIVE,FAILED,2022-07-18,3996.91,INR 
+10781,Karthik Kim,karthikkim514@company.com,USA,2021/10/05,647,SUSPENDED,PENDING,2023/01/22,3564.28,usd
+10327,Alice Kim,alicekim184@company.com,USA,2023/10/12,775,active,verified,2023-12-13,4440.62,INR
+10547,Sara Garcia,saragarcia963@company.com,india,2021-13-01,692,ACTIVE,VERIFIED,2024-09-08,4988.63,
+10858,Li Das,lidas923@outlook.com,United States,2020-08-17,647,SUSPENDED,,2022-02-01,4625.99,usd
+10529,Arjun Das,arjundas627@gmail.com,India,2020-08-22,649,INACTIVE,FAILED,2022/04/21,3114.46,EURO
+10346,John Singh,johnsingh92@yahoo.com,IN,12-14-20,733,active,VERIFIED,2022-08-18,4029.74,usd
+10883,Asha Garcia,ashagarcia601@outlook.com,,19-11-2022,624,active,,2024-04-11,,
+10583,Sara Shah,sarashah314@company.com,United States,,771,active,verified,2023/04/30,2924.9,INR 
+10593,Meera Kim,meerakim42@outlook.com,US,2021-13-01,794,ACTIVE,verified,2023-06-09,3111.05,usd
+10587,Karthik Patel,karthikpatel228@gmail.com,United States,26/04/2021,,,verified,2024-07-25,777.45,INR
+10308,Li Lee,lilee362@company.com,India,2022/10/28,605,ACTIVE,verified,28-12-2023,2150.29,usd
+10059,Ravi Johnson,ravijohnson360@company.com,USA,06-01-2021,700,,PENDING,23-08-2023,4279.5,usd
+10993,Meera Wilson,meerawilson443@company.com,United States of America,2023-03-12,abc,ACTIVE,,29-04-2023,-37.6,
+10231,Chen Wilson,chenwilson705@gmail.com,United States of America,2021-13-01,683,ACTIVE,,18-01-2023,1099.46,
+10629,Miguel Johnson,migueljohnson980@company.com,US,2022/09/05,676,INACTIVE,PENDING,2023-11-07,1267.96,EURO
+10601,John Rao,johnrao566@outlook.com,,30-01-2021,630,INACTIVE,FAILED,2022-05-16,2198.13,INR
+10662,Priya Lee,priyalee491@outlook.com,US,2021-13-01,732,ACTIVE,PENDING,2023/03/23,2098.52,USD
+10136,David Kumar,davidkumar671@gmail.com,IN,2021-05-27,827,INACTIVE,FAILED,2022/02/07,545.99,INR 
+10915,Sara Garcia,saragarcia912@outlook.com,USA,11-24-23,665,INACTIVE,,2022/01/07,674.89,
+10314,Ravi Shah,ravishah633@outlook.com,india,02/07/2022,593,SUSPENDED,PENDING,2022/01/24,4779.64,EURO
+10106,Meera Johnson,meerajohnson424@yahoo.com,India,2021-07-17,699,,verified,18-02-2022,3886.18,usd
+10823,David Das,,IN,2021/03/06,735,ACTIVE,PENDING,17-01-2024,4051.2,INR 
+10055,Priya Shah,priyashah868@outlook.com,U.S.,2022-05-23,,ACTIVE,FAILED,2023-09-15,3092.0,EURO
+10120,Chen Patel,chenpatel609@outlook.com,india,,665,SUSPENDED,verified,09-12-2022,507.85,usd
+10370,Nina Shah,ninashah795@outlook.com,india,2021-13-01,758,INACTIVE,,2023-07-08,1423.71,usd
+10025,John Wilson,johnwilson7@outlook.com,IN,2021/09/03,595,,PENDING,2023/05/15,1822.06,
+10072,Miguel Lee,miguellee425@gmail.com,USA,03-22-22,,INACTIVE,VERIFIED,23-11-2022,3915.18,INR
+10549,Priya Rao,priyarao361@gmail.com,,2022-11-01,666,,FAILED,2022/10/20,4016.6,EURO
+10044,Li Singh,lisingh978@outlook.com,IN,2023/07/07,,SUSPENDED,PENDING,2024-02-04,3460.23,USD
+10296,,user929@outlook.com,USA,2021-13-01,588,ACTIVE,verified,18-09-2023,4050.85,USD
+10328,Meera Brown,meerabrown126@outlook.com,india,2022/05/19,605,active,FAILED,2023/05/03,2459.36,INR
+10247,Omar Singh,,,25/03/2020,737,active,verified,10-02-2024,2046.07,INR 
+10336,Nina Garcia,ninagarcia903@yahoo.com,USA,07-09-23,667,active,FAILED,17-08-2024,4515.55,EURO
+10351,Priya Das,priyadas55@outlook.com,india,2020-10-31,630,active,VERIFIED,29-03-2023,2180.35,USD
+10361,Ravi Rao,ravirao21@outlook.com,United States of America,13-04-2023,999,active,verified,25-01-2024,1312.03,INR 
+10737,John Johnson,,United States,2021/02/02,672,SUSPENDED,,2023-10-16,3283.96,INR 
+10960,David Singh,davidsingh908@yahoo.com,US,2023/08/17,696,INACTIVE,FAILED,01-03-2022,4140.52,USD
+10420,Nina Garcia,ninagarcia520@yahoo.com,US,2022/05/22,678,SUSPENDED,,2023-04-05,3862.7,USD
+10381,David Smith,davidsmith496@gmail.com,USA,,805,,PENDING,2022/11/08,3106.15,INR
+10694,Omar Rao,omarrao205@gmail.com,USA,,651,INACTIVE,verified,2022-08-06,3670.12,usd
+10539,Li Wilson,bad-email@@,india,2023/12/01,617,SUSPENDED,,2023-01-29,4243.79,INR 
+10449,Ravi Nguyen,,India,,552,INACTIVE,verified,25-05-2023,3428.99,INR 
+10622,Omar Lee,omarlee915@company.com,United States,21-01-2021,,,VERIFIED,2024/03/09,1502.8,usd
+10209,Sara Wilson,sarawilson909@outlook.com,USA,24-10-2022,767,INACTIVE,FAILED,2023-09-09,1955.99,usd
+10554,Li Lee,lilee102@company.com,IN,06-08-2021,645,SUSPENDED,,2024-02-11,533.22,INR
+10636,Alice Smith,alicesmith843@outlook.com,United States,2021/05/11,645,ACTIVE,FAILED,2023-03-08,4197.79,
+10481,Karthik Garcia,karthikgarcia459@company.com,United States,25/11/2021,671,active,PENDING,02-08-2022,592.49,
+10432,Priya Shah,priyashah772@yahoo.com,US,,655,SUSPENDED,PENDING,2024/01/07,3287.13,
+10626,Meera Kumar,meerakumar144@yahoo.com,United States of America,2020-03-20,625,INACTIVE,verified,26-06-2022,3658.23,
+10060,Nina Nguyen,,USA,14-11-2020,,active,verified,2023/05/13,3725.7,USD
+10621,Sara Iyer,saraiyer911@outlook.com,USA,04-02-22,abc,SUSPENDED,verified,2022-06-04,3792.45,EURO
+10755,Chen Shah,chenshah812@outlook.com,U.S.,07-31-20,664,,VERIFIED,2024-09-26,4655.74,INR 
+10092,Li Lee,lilee894@outlook.com,USA,16-12-2023,522,INACTIVE,verified,23-07-2024,3814.35,
+10901,,user228@outlook.com,United States,2020/05/20,637,SUSPENDED,,2024-02-22,4575.66,INR 
+10462,Li Lee,lilee170@gmail.com,United States of America,2022/11/09,200,,VERIFIED,19-06-2024,3480.32,EURO
+10666,Omar Wilson,omarwilson290@outlook.com,U.S.,09-07-2022,655,INACTIVE,verified,2023-07-04,3112.88,INR
+10976,Karthik Iyer,karthikiyer107@gmail.com,US,23/12/2022,663,ACTIVE,VERIFIED,24-03-2024,4560.94,INR 
+10477,Nina Wilson,,United States of America,04/09/2022,652,active,PENDING,2022-10-04,3849.75,usd
+10332,Arjun Nguyen,arjunnguyen329@company.com,USA,2021-13-01,715,ACTIVE,FAILED,2023/01/25,1942.03,USD
+10938,Miguel Lee,miguellee233@outlook.com,india,,720,INACTIVE,FAILED,2022/08/19,2437.83,USD
+10700,Omar Singh,,United States of America,2022/06/04,621,SUSPENDED,FAILED,2024/01/07,,usd
+10464,Sara Brown,,,24-06-2021,600,SUSPENDED,PENDING,2024-01-19,-118.68,
+10355,Chen Shah,chenshah754@outlook.com,India,11-03-23,716,active,verified,2022/10/02,1997.19,usd
+10362,Karthik Nguyen,karthiknguyen238@outlook.com,USA,2022-12-17,,active,verified,30-04-2022,3427.08,USD
+10312,Omar Das,omardas325@gmail.com,United States,21/06/2022,687,INACTIVE,FAILED,2023-04-05,431.75,USD
+10318,Omar Wilson,omarwilson428@company.com,United States,2021-13-01,621,,FAILED,2023/08/19,3065.58,INR 
+10973,Omar Brown,omarbrown607@yahoo.com,India,2020-08-27,774,,VERIFIED,06-12-2023,4064.01,INR
+10380,Nina Brown,ninabrown400@company.com,US,17-10-2021,630,INACTIVE,PENDING,2024-02-10,3712.43,INR 
+10182,Ravi Patel,ravipatel927@gmail.com,India,12-08-2023,700,ACTIVE,FAILED,2023/01/04,402.69,USD
+10716,Chen Singh,,IN,2022-03-19,769,INACTIVE,PENDING,06-05-2023,3159.41,
+10110,Arjun Smith,arjunsmith17@yahoo.com,India,02-07-23,738,INACTIVE,verified,18-07-2023,3769.48,INR 
+10530,David Iyer,davidiyer760@yahoo.com,United States,06-07-22,616,INACTIVE,VERIFIED,2024-04-09,1921.74,EURO
+10377,Li Brown,,U.S.,04-03-2022,,active,FAILED,2023-10-24,2774.37,
+10713,Miguel Kumar,miguelkumar681@yahoo.com,india,07-02-22,,INACTIVE,,2023-02-28,566.41,INR
+10872,Arjun Singh,arjunsingh442@outlook.com,United States of America,2022-04-20,740,SUSPENDED,verified,2024/06/04,4440.81,EURO
+10939,Alice Kim,,United States of America,04-03-20,681,INACTIVE,PENDING,invalid_date,,USD
+10731,Asha Brown,ashabrown466@yahoo.com,United States,2023-12-25,792,INACTIVE,VERIFIED,2022/10/22,1854.09,EURO
+10292,Chen Iyer,,United States of America,2020-10-31,604,,VERIFIED,2023/06/12,1900.35,
+10436,Omar Wilson,omarwilson61@outlook.com,IN,08-11-2020,633,INACTIVE,verified,15-01-2024,627.8,USD
+10835,David Johnson,davidjohnson755@outlook.com,United States of America,24-03-2021,781,SUSPENDED,,2024/04/10,3570.15,INR
+10307,Miguel Shah,miguelshah375@outlook.com,United States of America,2023-06-21,664,INACTIVE,PENDING,2022-12-09,3634.38,EURO
+10289,David Lee,,US,04-26-20,640,ACTIVE,VERIFIED,2024/05/26,4479.47,EURO
+10968,Sara Rao,sararao686@gmail.com,US,2022-07-19,817,,PENDING,27-12-2022,3411.11,INR
+10215,Arjun Nguyen,arjunnguyen774@outlook.com,india,04-26-22,615,SUSPENDED,,2022/12/19,4245.99,
+10630,Meera Johnson,meerajohnson728@company.com,United States of America,09-30-23,607,active,FAILED,09-11-2023,-22.03,INR 
+10280,Li Singh,lisingh679@yahoo.com,United States,30-08-2022,673,INACTIVE,PENDING,2022-01-12,4401.42,
+10673,Priya Kumar,priyakumar954@company.com,United States of America,04-12-23,699,SUSPENDED,VERIFIED,2024-06-26,1360.54,INR 
+10450,,user732@gmail.com,U.S.,12-09-23,648,,,2022-02-13,4386.04,EURO
+10298,Karthik Kumar,karthikkumar137@gmail.com,US,07-18-23,200,,FAILED,2023/03/03,872.03,
+10785,Nina Shah,ninashah418@company.com,India,2020-11-20,637,,verified,2022/08/08,4341.91,INR 
+10137,Nina Lee,ninalee713@gmail.com,IN,2020/09/03,668,ACTIVE,FAILED,2023-01-12,4029.51,INR
+10305,Chen Smith,chensmith136@yahoo.com,IN,28-08-2021,485,,,2022/01/25,4345.83,INR 
+10807,Chen Johnson,,,10-13-23,648,INACTIVE,FAILED,2023-01-02,4562.26,INR 
+10294,Ravi Garcia,,U.S.,15-09-2023,807,active,PENDING,invalid_date,,EURO
+10599,Omar Patel,omarpatel515@company.com,,2022/12/26,628,INACTIVE,PENDING,14-02-2023,3767.26,
+10581,Chen Shah,chenshah38@yahoo.com,U.S.,11-14-20,684,SUSPENDED,PENDING,17-12-2022,3664.29,usd
+10029,Nina Das,ninadas356@gmail.com,,27/05/2022,,active,verified,2022/04/19,4109.28,
+10165,Miguel Wilson,miguelwilson124@yahoo.com,United States of America,20-12-2020,772,active,PENDING,22-04-2024,4536.18,USD
+10248,Sara Patel,sarapatel269@outlook.com,US,03-27-22,719,active,,20-07-2022,1060.04,usd
+10310,Omar Garcia,omargarcia455@outlook.com,USA,20-08-2021,594,active,,2022/12/18,3262.45,EURO
+10685,Priya Das,priyadas647@company.com,United States,24/11/2021,690,SUSPENDED,PENDING,2023/01/14,2124.81,INR 
+10843,Omar Singh,omarsingh881@company.com,USA,26/03/2023,689,,PENDING,2023/12/19,4166.16,USD
+10342,Asha Lee,ashalee950@outlook.com,India,2021-09-08,730,active,FAILED,19-06-2024,-23.82,USD
+10605,Nina Smith,ninasmith27@company.com,india,01-29-22,665,active,verified,21-11-2023,468.48,EURO
+10526,,user595@gmail.com,India,03-10-20,720,active,FAILED,2022/01/10,4277.32,INR
+10065,Nina Brown,ninabrown451@yahoo.com,US,2022/08/18,639,active,verified,2022/02/08,4294.1,USD
+10631,Chen Lee,bad-email@@,USA,,640,,verified,2023/04/08,2638.57,USD
+10891,Nina Singh,ninasingh541@gmail.com,india,2023/01/10,837,active,,2022/03/16,2029.52,usd
+10254,Miguel Singh,miguelsingh534@outlook.com,india,04-05-2022,665,INACTIVE,PENDING,31-10-2023,852.01,INR
+10718,Asha Iyer,ashaiyer481@yahoo.com,IN,2020/07/05,676,SUSPENDED,FAILED,2023/09/01,1485.65,INR
+10770,Arjun Iyer,arjuniyer47@company.com,IN,2021/12/31,834,ACTIVE,VERIFIED,2023-08-02,28.16,INR 
+10221,Alice Singh,alicesingh568@gmail.com,United States,02/09/2022,629,INACTIVE,verified,25-01-2024,1180.11,INR
+10235,John Lee,johnlee485@yahoo.com,U.S.,27/10/2023,713,ACTIVE,FAILED,2023-05-08,70.86,
+10429,Omar Singh,omarsingh895@company.com,IN,2020-07-24,673,,VERIFIED,08-06-2024,1092.4,INR 
+10543,Sara Wilson,sarawilson18@outlook.com,United States of America,2021-13-01,682,active,VERIFIED,2023/08/17,2667.53,USD
+10440,Alice Patel,,United States of America,08-06-23,737,ACTIVE,,05-07-2022,1351.49,INR
+10588,Alice Brown,alicebrown292@yahoo.com,India,2021-13-01,627,,VERIFIED,2023/04/22,327.31,INR 
+10972,Omar Shah,omarshah425@company.com,india,02-07-2021,767,,PENDING,2022/01/18,235.32,EURO
+10249,Sara Shah,sarashah434@outlook.com,IN,14-12-2021,,SUSPENDED,PENDING,2022/12/25,2090.41,INR
+10578,Asha Shah,ashashah747@yahoo.com,India,20-06-2020,732,ACTIVE,FAILED,2022-10-08,2754.5,
+10409,Asha Rao,asharao426@yahoo.com,india,01-02-21,636,active,VERIFIED,2022-09-03,3066.03,usd
+10071,Karthik Garcia,karthikgarcia821@yahoo.com,United States,2021-05-27,661,ACTIVE,FAILED,2022/03/27,2469.43,INR 
+10094,Miguel Singh,miguelsingh298@yahoo.com,USA,2021-08-12,685,,FAILED,2024/08/13,3001.52,EURO
+10033,Chen Garcia,chengarcia304@yahoo.com,india,09-01-2022,686,SUSPENDED,PENDING,2023/10/16,-136.22,usd
+10644,Miguel Brown,miguelbrown17@company.com,US,01-23-21,714,INACTIVE,verified,2023-09-26,3500.66,
+10259,David Das,daviddas302@outlook.com,USA,11-14-23,567,INACTIVE,,18-08-2024,1950.51,INR 
+10204,Priya Brown,priyabrown580@yahoo.com,IN,2021/10/09,700,SUSPENDED,FAILED,2022/05/18,2206.81,usd
+10798,Priya Johnson,priyajohnson786@outlook.com,U.S.,07/09/2023,595,active,VERIFIED,2024-06-29,1704.14,INR 
+10620,Karthik Das,,United States,2022-11-17,571,active,FAILED,22-04-2023,1518.23,INR
+10365,Alice Nguyen,alicenguyen265@outlook.com,IN,2021-12-28,666,,VERIFIED,2023/12/25,4805.76,USD
+10077,John Das,johndas887@gmail.com,IN,2021-07-13,651,SUSPENDED,PENDING,2023/05/24,2500.23,USD
+10084,Karthik Johnson,karthikjohnson515@gmail.com,United States,04-27-23,740,,VERIFIED,2024-04-25,,
+10994,Arjun Brown,arjunbrown278@yahoo.com,India,12/09/2021,,active,FAILED,2023/11/13,4631.45,usd
+10082,Priya Smith,priyasmith823@outlook.com,,09-22-20,761,active,verified,2024-04-23,3140.16,INR 
+10525,Omar Smith,omarsmith175@yahoo.com,,12-03-23,601,SUSPENDED,FAILED,2023-02-05,4030.17,INR
+10439,Alice Garcia,alicegarcia643@yahoo.com,U.S.,2021-05-16,767,active,VERIFIED,07-03-2024,3088.13,INR 
+10567,Alice Kumar,alicekumar61@yahoo.com,United States of America,2021/05/31,747,active,VERIFIED,02-10-2022,2637.06,usd
+10560,Alice Kumar,alicekumar356@gmail.com,U.S.,14-12-2023,762,INACTIVE,VERIFIED,2022-10-25,3870.71,USD
+10542,Miguel Lee,bad-email@@,India,24-06-2020,797,SUSPENDED,FAILED,12-03-2024,,usd
+10887,Chen Patel,chenpatel920@yahoo.com,,15/08/2021,,,VERIFIED,2024/03/16,3785.46,EURO
+10331,Asha Das,ashadas442@outlook.com,United States,2021/10/01,670,,verified,2023-05-03,1835.2,INR 
+10005,Karthik Wilson,karthikwilson699@gmail.com,,30/06/2021,771,SUSPENDED,,2024-02-20,1351.91,
+10479,,,India,18/01/2020,717,SUSPENDED,PENDING,2023/12/21,3655.55,USD
+10104,Li Garcia,ligarcia254@yahoo.com,United States of America,09-12-2021,649,active,,2024-02-24,149.91,EURO
+10097,Miguel Brown,miguelbrown911@outlook.com,United States,2022/10/29,685,INACTIVE,VERIFIED,2024/01/25,3737.87,INR
+10832,Sara Johnson,sarajohnson496@company.com,United States,15-02-2022,603,active,verified,2024-07-10,1840.98,EURO
+10787,David Singh,davidsingh791@gmail.com,india,2024-02-05,664,SUSPENDED,PENDING,22-04-2023,3378.94,USD
+10424,Sara Shah,bad-email@@,United States,06-19-21,699,INACTIVE,VERIFIED,30-04-2022,1798.61,
+10934,Meera Shah,meerashah709@gmail.com,,21/04/2022,603,,verified,2023/02/14,2233.76,USD
+10281,Ravi Patel,ravipatel916@outlook.com,U.S.,30-06-2023,710,active,,08-01-2022,2408.99,INR 
+10266,Li Shah,lishah726@yahoo.com,India,2021-01-31,637,,verified,invalid_date,3991.43,INR
+10534,Alice Singh,alicesingh909@gmail.com,,07-09-2022,,,PENDING,2023/10/28,4219.13,INR
+10453,Alice Singh,alicesingh421@yahoo.com,US,2022-09-25,689,active,PENDING,2023-07-04,3212.65,INR 
+10359,John Singh,,United States,2023/09/05,756,SUSPENDED,,2024/04/12,4808.34,
+10490,Asha Patel,ashapatel424@outlook.com,U.S.,21/12/2021,635,active,verified,18-01-2023,2066.56,usd
+10991,Meera Smith,meerasmith896@yahoo.com,USA,2021/11/06,720,SUSPENDED,VERIFIED,2023-07-21,,INR 
+10816,David Brown,davidbrown986@outlook.com,USA,2023/11/24,749,active,PENDING,07-07-2023,4656.3,INR 
+10118,Chen Shah,chenshah110@company.com,US,11/01/2020,695,,,2023-06-09,2681.94,EURO
+10634,Nina Das,ninadas820@gmail.com,,01-12-22,656,INACTIVE,,20-08-2022,4699.4,EURO
+10250,Sara Kumar,sarakumar758@gmail.com,USA,05-12-21,abc,ACTIVE,FAILED,2023/04/06,2597.63,INR
+10405,John Nguyen,johnnguyen976@yahoo.com,IN,03-09-23,593,ACTIVE,,2023-01-31,4802.08,
+10717,Nina Garcia,ninagarcia615@outlook.com,USA,2022-05-04,719,SUSPENDED,verified,2022/10/15,2583.51,usd
+10704,Karthik Garcia,,US,2023-03-24,624,SUSPENDED,verified,2022/04/30,1853.79,
+10009,Sara Singh,sarasingh690@gmail.com,US,2020/05/04,726,INACTIVE,verified,2022-07-07,192.0,EURO
+10859,Ravi Kumar,ravikumar535@company.com,,04-22-21,633,ACTIVE,VERIFIED,2022/09/23,2261.03,USD
+10196,,user158@gmail.com,IN,2023-05-07,704,,FAILED,2022/03/16,4776.34,EURO
+10652,David Singh,davidsingh348@gmail.com,United States of America,07-11-20,,,VERIFIED,2023-12-01,,EURO
+10081,Priya Lee,priyalee177@outlook.com,United States of America,28/06/2020,728,INACTIVE,PENDING,2024-03-23,845.1,INR
+10447,Chen Singh,chensingh489@outlook.com,United States,2021-06-14,629,SUSPENDED,VERIFIED,2024/07/29,1095.38,EURO
+10533,Miguel Patel,miguelpatel669@company.com,USA,07/03/2020,620,SUSPENDED,VERIFIED,30-08-2022,3456.07,USD
+10668,Sara Brown,sarabrown252@yahoo.com,india,30-12-2023,619,active,,2024/06/02,1395.87,INR 
+10239,,user905@yahoo.com,USA,23/06/2023,623,active,PENDING,21-06-2023,1272.27,INR 
+10411,Li Iyer,liiyer407@yahoo.com,USA,22/01/2020,698,ACTIVE,VERIFIED,16-07-2023,529.33,usd
+10211,Nina Shah,,India,24-06-2020,843,,PENDING,2024-03-24,2456.19,INR
+10773,David Smith,davidsmith772@company.com,United States of America,2021-13-01,,,VERIFIED,2023-11-15,1017.94,USD
+10545,Li Johnson,bad-email@@,IN,2023-01-11,,active,VERIFIED,2023-06-08,1731.07,
+10519,Miguel Patel,bad-email@@,IN,2021/05/24,,SUSPENDED,FAILED,04-09-2023,4354.85,EURO
+10227,Omar Garcia,omargarcia391@gmail.com,India,07-08-2022,690,active,VERIFIED,2022-03-23,3195.67,
+10922,Karthik Lee,karthiklee668@gmail.com,United States,2023-05-10,716,active,,2022-02-11,4770.09,INR
+10404,Priya Iyer,bad-email@@,United States,28-03-2023,693,INACTIVE,verified,2023/03/12,3390.7,usd
+10889,Asha Patel,ashapatel447@gmail.com,U.S.,2023/09/30,,active,FAILED,03-11-2022,4171.76,INR
+10177,,user914@gmail.com,IN,2021-13-01,,INACTIVE,PENDING,2023/12/12,1794.46,EURO
+10626,Meera Kumar,meerakumar144@yahoo.com,United States of America,2020-03-20,625,INACTIVE,PENDING,21-12-2023,1612.35,
+10465,Chen Das,chendas969@outlook.com,India,07-06-23,789,active,PENDING,02-04-2023,571.34,INR 
+10430,Omar Wilson,omarwilson4@yahoo.com,IN,04/02/2020,704,active,verified,2024-01-27,4683.24,INR 
+10532,Alice Iyer,aliceiyer24@company.com,india,16/08/2021,737,,,05-09-2022,1875.94,USD
+10695,Sara Garcia,saragarcia343@company.com,india,31/10/2021,708,,verified,2022-07-29,354.99,INR
+10478,,user217@gmail.com,USA,25-09-2021,,SUSPENDED,VERIFIED,2024-09-27,3909.17,USD
+10688,Meera Shah,,IN,2023/06/25,629,,PENDING,2024-04-23,2907.45,USD
+10007,Ravi Shah,ravishah541@company.com,U.S.,03-09-21,665,SUSPENDED,verified,2024-07-10,132.93,USD
+10155,Nina Lee,ninalee273@yahoo.com,,24-04-2020,685,INACTIVE,PENDING,31-08-2022,4552.7,USD
+10357,Asha Lee,ashalee565@gmail.com,US,04-02-20,,,FAILED,2022-12-30,-115.4,
+10584,David Smith,davidsmith432@gmail.com,U.S.,,712,,PENDING,2024-09-01,1532.36,USD
+10223,Meera Das,meeradas490@outlook.com,,03-07-20,653,,verified,2022-11-20,1773.03,USD
+10329,Alice Patel,alicepatel31@yahoo.com,US,,807,SUSPENDED,,2023-10-01,2503.73,INR 
+10633,Alice Garcia,alicegarcia315@company.com,United States of America,06-12-22,628,,PENDING,2022-05-26,833.12,
+10822,Chen Shah,chenshah199@gmail.com,India,07-10-23,604,ACTIVE,verified,2023-09-06,4131.73,usd
+10868,Karthik Garcia,karthikgarcia473@outlook.com,,2020-10-24,695,INACTIVE,FAILED,2023/09/30,4725.36,EURO
+10611,Chen Shah,chenshah258@gmail.com,U.S.,16/05/2023,621,SUSPENDED,FAILED,2024/06/07,2718.57,usd
+10096,Omar Smith,omarsmith548@yahoo.com,USA,2020/12/24,662,active,verified,2023/09/02,3904.46,EURO
+10746,Nina Lee,ninalee953@gmail.com,,02-02-24,580,active,PENDING,2022-12-20,3978.86,INR 
+10678,Nina Shah,ninashah805@company.com,US,2021-13-01,726,INACTIVE,,2022/05/02,1508.69,INR
+10809,Sara Singh,sarasingh913@gmail.com,,30/08/2021,606,INACTIVE,verified,2022-10-29,1280.76,USD
+10494,Nina Singh,ninasingh413@yahoo.com,IN,25-11-2022,750,active,FAILED,2024/05/07,284.98,INR 
+10572,David Kumar,davidkumar339@outlook.com,India,,634,,PENDING,2022-05-27,4458.96,USD
+10628,John Garcia,johngarcia162@yahoo.com,US,31/01/2020,580,active,,27-03-2023,-196.25,INR 
+10762,Miguel Johnson,migueljohnson505@yahoo.com,,2021-05-02,676,INACTIVE,verified,24-09-2024,1094.96,USD
+10958,Sara Garcia,saragarcia407@company.com,U.S.,2021-03-29,741,INACTIVE,PENDING,28-04-2024,-25.88,INR
+10163,David Patel,davidpatel483@outlook.com,United States of America,15/09/2023,708,active,VERIFIED,2022/09/27,1196.52,USD
+10228,Omar Singh,omarsingh766@company.com,,2022/07/11,703,ACTIVE,PENDING,2022-06-20,4369.19,EURO
+10523,John Rao,johnrao140@outlook.com,india,15-10-2023,abc,active,,2023-12-06,,EURO
+10786,Omar Singh,omarsingh776@company.com,India,27-03-2020,686,SUSPENDED,PENDING,09-09-2024,,USD
+10212,Sara Kim,sarakim388@yahoo.com,U.S.,2021-13-01,717,INACTIVE,,09-04-2022,4364.31,EURO
+10825,Karthik Iyer,karthikiyer776@yahoo.com,United States of America,14/01/2020,648,active,PENDING,2024/06/30,4547.04,INR 
+10079,John Patel,johnpatel976@yahoo.com,USA,10-19-20,613,SUSPENDED,verified,30-08-2024,2139.6,usd
+10148,Arjun Iyer,arjuniyer729@yahoo.com,India,2020-07-09,764,ACTIVE,,08-04-2022,189.12,EURO
+10302,Meera Patel,meerapatel149@outlook.com,india,2023/06/02,726,SUSPENDED,PENDING,10-12-2022,1259.14,USD
+10448,Priya Kumar,priyakumar515@outlook.com,India,2021/07/18,644,ACTIVE,FAILED,2023-02-21,198.8,INR
+10501,Arjun Johnson,arjunjohnson408@company.com,USA,22-08-2020,718,SUSPENDED,FAILED,2022-05-29,,
+10548,Arjun Garcia,arjungarcia622@gmail.com,United States of America,09-12-23,673,SUSPENDED,PENDING,2024/03/29,1437.05,USD
+10841,Omar Kumar,,US,2020-08-25,746,ACTIVE,verified,20-05-2022,2551.61,INR 
+10043,Miguel Das,migueldas508@yahoo.com,USA,09-15-20,729,active,VERIFIED,10-01-2024,189.11,usd
+10493,John Kim,bad-email@@,USA,10/11/2020,686,,verified,2022/09/05,3151.06,USD
+10133,Chen Das,chendas888@company.com,United States,07-12-2023,678,active,PENDING,15-08-2023,2150.36,
+10594,John Kumar,johnkumar857@gmail.com,U.S.,26-08-2020,596,ACTIVE,FAILED,2023/08/11,3382.09,INR
+10311,Priya Iyer,priyaiyer176@company.com,India,2021/04/09,653,INACTIVE,,04-08-2024,4860.67,
+10507,Miguel Wilson,miguelwilson685@outlook.com,US,12-04-22,574,active,PENDING,2022/04/05,1635.65,INR
+10655,Alice Shah,aliceshah145@company.com,india,02-10-2022,,active,,2022-04-12,1466.88,EURO
+10516,Arjun Shah,,India,07-07-23,597,SUSPENDED,FAILED,2023/02/05,13.72,EURO
+10849,Karthik Lee,,U.S.,2021-07-19,,ACTIVE,,10-04-2022,358.49,EURO
+10811,Karthik Kim,karthikkim753@company.com,United States of America,02-06-24,665,INACTIVE,VERIFIED,18-05-2024,1455.9,USD
+10000,John Rao,johnrao693@gmail.com,,,200,,verified,2022/08/14,-166.21,INR
+10782,Arjun Singh,arjunsingh817@yahoo.com,India,13-11-2022,,SUSPENDED,PENDING,14-03-2024,,
+10382,Ravi Brown,ravibrown551@yahoo.com,U.S.,2021-13-01,619,INACTIVE,VERIFIED,2022/03/03,1104.62,
+10316,Arjun Das,arjundas747@outlook.com,U.S.,10-12-20,749,SUSPENDED,VERIFIED,2024/08/13,1929.2,usd
+10761,Ravi Nguyen,ravinguyen84@yahoo.com,IN,10-12-2020,200,INACTIVE,PENDING,26-01-2024,4946.16,USD
+10591,Priya Singh,,India,2020-03-22,,,FAILED,16-09-2022,4059.68,EURO
+10408,David Nguyen,davidnguyen283@outlook.com,india,16-01-2020,595,,verified,2023-04-17,1297.14,INR 
+10941,Sara Iyer,saraiyer994@yahoo.com,india,15-11-2023,abc,ACTIVE,,2022-10-27,4950.03,
+10411,Li Iyer,liiyer407@yahoo.com,USA,22/01/2020,698,ACTIVE,PENDING,2022/10/30,4084.2,usd
+10750,Nina Nguyen,ninanguyen461@yahoo.com,India,2021-09-06,200,ACTIVE,PENDING,2024-09-01,2036.06,USD
+10172,Karthik Shah,karthikshah306@company.com,US,2022-09-13,583,SUSPENDED,PENDING,2022-06-03,3988.24,EURO
+10125,Alice Patel,alicepatel320@company.com,IN,21-07-2022,,active,FAILED,10-03-2022,4215.74,
+10696,Nina Rao,ninarao908@yahoo.com,India,2021-13-01,700,SUSPENDED,PENDING,invalid_date,,INR
+10499,Li Rao,lirao205@outlook.com,US,12-14-21,665,INACTIVE,FAILED,27-06-2022,1842.69,EURO
+10596,Li Nguyen,linguyen555@company.com,U.S.,2021-13-01,640,active,verified,2022-08-04,1129.6,USD
+10971,,user881@gmail.com,IN,2023/06/11,,SUSPENDED,PENDING,2024/03/17,3450.35,INR
+10090,Miguel Nguyen,miguelnguyen608@company.com,IN,11-04-22,677,ACTIVE,verified,21-08-2023,3072.15,EURO
+10811,Karthik Kim,karthikkim753@company.com,United States of America,02-06-24,665,INACTIVE,PENDING,2023-06-07,2835.8,USD
+10181,Chen Johnson,chenjohnson721@company.com,U.S.,2021-13-01,695,SUSPENDED,PENDING,invalid_date,374.24,EURO
+10363,Li Lee,lilee602@yahoo.com,IN,2023/05/18,712,SUSPENDED,verified,2024-03-29,1268.78,
+10274,Alice Kim,alicekim96@yahoo.com,United States of America,2020/07/18,558,INACTIVE,,2022/09/22,4569.77,usd
+10752,Karthik Shah,karthikshah337@gmail.com,india,2022-09-09,602,SUSPENDED,verified,2022-06-15,1679.43,usd
+10962,Alice Lee,bad-email@@,USA,25-03-2021,,ACTIVE,verified,2024-03-13,2019.71,INR 
+10069,Sara Das,saradas159@yahoo.com,US,2021-08-28,735,,PENDING,2023-09-04,3402.8,EURO
+10291,John Johnson,johnjohnson72@outlook.com,United States of America,02-14-21,704,,VERIFIED,2024/07/23,179.18,EURO
+10131,Chen Smith,chensmith436@yahoo.com,US,31-08-2023,675,active,VERIFIED,2024-03-05,2857.2,usd
+10300,Priya Das,priyadas199@gmail.com,US,2020/11/01,637,INACTIVE,verified,2022/09/15,,
+10712,Sara Das,bad-email@@,,21/11/2023,605,active,VERIFIED,08-03-2022,1886.9,INR
+10326,Sara Patel,sarapatel781@outlook.com,IN,14/12/2023,719,,FAILED,2023/12/05,1917.87,INR 
+10144,Nina Shah,,United States of America,2021-13-01,725,ACTIVE,,2023-11-22,-186.64,USD
+10521,Sara Singh,sarasingh29@outlook.com,,2020/02/24,678,SUSPENDED,PENDING,2023/04/28,3705.63,INR 
+10963,Sara Das,saradas178@gmail.com,India,07/08/2023,684,,FAILED,2024-04-15,,usd
+10886,John Smith,,,2022/03/01,743,,verified,2024-01-03,4052.72,INR
+10135,Sara Wilson,sarawilson580@yahoo.com,United States of America,2021-13-01,200,active,verified,2022/01/01,3380.68,INR
+10996,Priya Das,,United States of America,2021/09/21,689,INACTIVE,,2023-03-24,4052.46,EURO
+10722,Chen Smith,,US,2021-07-22,687,INACTIVE,VERIFIED,2024-07-01,,usd
+10164,Li Shah,,IN,2023/01/13,624,active,,2023/12/05,1025.34,usd
+10028,Nina Lee,ninalee172@company.com,US,,666,active,PENDING,19-03-2022,3425.4,usd
+10679,,,IN,07-04-23,591,active,FAILED,2024-01-20,2439.44,USD
+10193,John Singh,johnsingh274@yahoo.com,United States,09/08/2021,749,SUSPENDED,verified,15-04-2022,4297.18,
+10902,Arjun Wilson,arjunwilson764@gmail.com,U.S.,06-07-2022,677,,,2022-07-19,984.83,
+10813,Ravi Patel,ravipatel645@yahoo.com,IN,02-11-2021,722,,verified,2024/08/17,581.77,USD
+10433,Karthik Shah,karthikshah893@company.com,india,03-25-23,693,,verified,2024/04/07,255.94,USD
+10987,Meera Nguyen,meeranguyen783@gmail.com,United States of America,02-09-2021,739,,verified,2023/03/10,2076.94,EURO
+10169,Li Garcia,ligarcia178@gmail.com,india,2021-02-15,606,active,,2023-02-11,1058.08,INR 
+10541,Asha Nguyen,ashanguyen827@gmail.com,US,2023/02/07,608,active,,07-01-2024,4793.59,INR 
+10140,Chen Lee,chenlee654@outlook.com,US,2022-12-17,677,SUSPENDED,,2023/12/01,3805.91,USD
+10173,Sara Shah,bad-email@@,United States of America,28/08/2021,691,INACTIVE,FAILED,14-01-2024,3881.46,
+10006,Meera Kumar,meerakumar614@gmail.com,IN,2022-09-27,665,INACTIVE,,27-08-2024,159.91,EURO
+10820,David Das,daviddas560@yahoo.com,US,2021/11/27,661,SUSPENDED,verified,2022/07/02,4836.87,INR
+10535,,,india,12-30-22,710,active,PENDING,17-03-2023,2077.35,EURO
+10961,Asha Garcia,ashagarcia347@outlook.com,United States,07/07/2022,733,INACTIVE,,2024-03-23,,usd
+10855,Priya Shah,priyashah605@outlook.com,United States of America,2023-11-04,668,active,VERIFIED,2022/06/02,2322.11,EURO
+10073,,user778@yahoo.com,United States of America,2021-13-01,,SUSPENDED,PENDING,05-05-2024,2000.92,usd
+10737,John Johnson,,United States,2021/02/02,672,SUSPENDED,PENDING,2022-01-01,1180.64,INR 
+10527,Li Garcia,ligarcia361@yahoo.com,IN,30-07-2022,701,active,verified,12-09-2024,3484.2,EURO
+10238,Priya Rao,priyarao195@outlook.com,United States,18/01/2023,597,INACTIVE,VERIFIED,2023/06/28,2616.35,INR 
+10145,Priya Brown,priyabrown567@gmail.com,U.S.,04/04/2021,727,ACTIVE,,2023-11-21,2482.03,USD
+10852,Chen Wilson,chenwilson843@yahoo.com,United States of America,2021/06/04,599,INACTIVE,PENDING,2023-12-18,,usd
+10234,Chen Smith,chensmith58@yahoo.com,India,2022-03-14,701,ACTIVE,VERIFIED,2024-09-24,4869.86,INR
+10220,Arjun Nguyen,arjunnguyen985@company.com,United States of America,2023/10/27,675,INACTIVE,PENDING,2024/03/30,-149.44,usd
+10214,Meera Kim,meerakim264@outlook.com,india,2020-01-12,,INACTIVE,FAILED,2023-02-23,2843.92,usd
+10711,Chen Singh,,United States,02/04/2021,633,ACTIVE,VERIFIED,18-06-2022,2947.07,USD
+10132,Nina Shah,ninashah834@yahoo.com,india,05-01-20,564,SUSPENDED,,01-10-2022,3332.36,USD
+10601,John Rao,johnrao566@outlook.com,,30-01-2021,630,INACTIVE,,15-07-2024,3301.34,INR
+10906,Sara Das,saradas11@gmail.com,United States,2022-05-05,722,SUSPENDED,,23-09-2022,2077.92,USD
+10707,Arjun Brown,arjunbrown651@outlook.com,USA,2023/10/22,761,active,,28-02-2024,4379.31,
+10422,Arjun Garcia,arjungarcia733@yahoo.com,United States of America,,678,active,verified,20-08-2024,2345.67,
+10185,Arjun Iyer,,India,2021-13-01,697,,PENDING,2024/09/05,3378.86,EURO
+10041,Li Johnson,lijohnson484@outlook.com,india,07-24-22,679,ACTIVE,FAILED,2024/03/02,3896.13,usd
+10767,Meera Rao,meerarao277@outlook.com,United States,10-09-2022,747,,,2023-10-20,1728.34,usd
+10108,Li Wilson,liwilson895@gmail.com,US,01-20-21,710,ACTIVE,PENDING,17-08-2024,4997.77,INR 
+10635,Meera Johnson,,U.S.,2021/08/30,740,SUSPENDED,VERIFIED,18-03-2022,885.52,
+10056,Arjun Nguyen,arjunnguyen102@outlook.com,US,09-02-23,636,active,verified,2023/03/02,3258.56,usd
+10482,Alice Das,,India,2023-01-25,687,,FAILED,2022-12-28,2195.85,INR 
+10753,Karthik Rao,karthikrao895@yahoo.com,US,07-01-2020,659,active,FAILED,05-05-2022,434.91,
+10793,Nina Nguyen,ninanguyen282@outlook.com,IN,2021/11/22,,SUSPENDED,PENDING,17-06-2023,,usd
+10468,Alice Garcia,alicegarcia208@gmail.com,United States,09-10-22,577,,FAILED,2023-10-05,334.64,usd
+10926,Arjun Shah,arjunshah964@company.com,,25/11/2023,707,ACTIVE,,23-01-2024,3012.04,
+10435,Meera Patel,meerapatel324@outlook.com,United States,30-08-2021,685,ACTIVE,,24-11-2022,4983.61,
+10024,Miguel Garcia,,United States,2021/04/18,,active,FAILED,2023-07-10,1984.75,EURO
+10549,Priya Rao,priyarao361@gmail.com,,2022-11-01,666,,PENDING,2024/08/05,3262.69,EURO
+10518,Asha Nguyen,ashanguyen441@gmail.com,IN,2021-13-01,676,,,08-06-2022,4978.75,INR
+10837,Ravi Smith,ravismith138@gmail.com,IN,2022-03-24,674,,verified,18-08-2024,433.67,
+10667,Arjun Johnson,arjunjohnson443@gmail.com,India,2020-10-21,557,SUSPENDED,PENDING,2024/08/22,2152.02,INR 
+10174,David Wilson,davidwilson301@yahoo.com,US,22-08-2022,695,SUSPENDED,,2022-07-08,3932.99,usd
+10997,John Iyer,johniyer342@company.com,IN,2021-03-22,709,active,PENDING,2023-11-06,153.55,
+10338,Alice Kumar,alicekumar476@company.com,United States of America,2023/02/20,999,,PENDING,22-10-2023,-96.47,USD
+10051,Priya Patel,,,2020/10/04,690,INACTIVE,verified,2023/11/02,4683.08,usd
+10383,Sara Wilson,sarawilson47@company.com,United States,12-29-22,607,SUSPENDED,verified,2022/08/04,4716.12,
+10861,Omar Kim,omarkim274@gmail.com,USA,20/04/2023,621,ACTIVE,FAILED,invalid_date,3140.1,INR
+10989,Asha Iyer,ashaiyer409@yahoo.com,,2022-12-28,abc,SUSPENDED,FAILED,2022-01-11,2476.8,INR 
+10682,Nina Shah,ninashah462@company.com,IN,10/09/2022,655,,PENDING,2022/02/13,2200.53,INR 
+10995,John Singh,johnsingh332@gmail.com,IN,06-05-23,702,INACTIVE,VERIFIED,invalid_date,4645.72,
+10264,Omar Rao,omarrao990@yahoo.com,United States of America,31/03/2023,683,ACTIVE,verified,2024/05/13,434.52,usd
+10708,John Singh,,United States of America,2020/06/26,704,ACTIVE,verified,2023-01-24,2240.25,usd
+10765,Arjun Singh,arjunsingh680@outlook.com,india,24-07-2023,721,active,verified,2024-08-29,2053.13,INR
+10736,Miguel Iyer,migueliyer683@gmail.com,,02-01-24,620,active,FAILED,2022-05-28,1796.23,INR 
+10444,Nina Garcia,ninagarcia747@yahoo.com,U.S.,06-01-20,691,SUSPENDED,verified,20-08-2024,3073.75,usd
+10395,Miguel Das,migueldas655@gmail.com,india,20-11-2023,630,active,PENDING,2023-02-14,183.4,USD
+10558,Ravi Iyer,raviiyer135@company.com,india,2023-07-24,abc,ACTIVE,verified,26-07-2023,1974.43,usd
+10176,Li Kumar,likumar321@yahoo.com,USA,2020/01/10,605,ACTIVE,PENDING,2023/09/22,4819.7,INR 
+10018,Asha Patel,ashapatel696@outlook.com,,2021-11-09,576,ACTIVE,,2023/03/21,4918.03,USD
+10979,Asha Das,ashadas590@company.com,,16-07-2020,abc,INACTIVE,verified,09-03-2023,674.08,USD
+10538,David Brown,davidbrown540@yahoo.com,India,10-15-21,673,SUSPENDED,VERIFIED,28-07-2022,3657.93,INR
+10613,Karthik Johnson,karthikjohnson702@gmail.com,India,02-06-2023,725,INACTIVE,,10-11-2023,3198.15,INR 
+10590,Karthik Brown,,United States,05-18-22,,ACTIVE,FAILED,28-08-2024,2477.46,EURO
+10367,Ravi Patel,ravipatel788@outlook.com,USA,2021/05/17,,SUSPENDED,verified,2023-01-05,3718.24,INR 
+10083,Karthik Brown,karthikbrown787@yahoo.com,United States,06-05-22,675,SUSPENDED,PENDING,21-12-2022,4198.86,usd
+10061,Alice Johnson,alicejohnson47@company.com,india,2021-13-01,574,SUSPENDED,FAILED,2022/12/02,713.61,INR 
+10514,David Wilson,davidwilson794@yahoo.com,US,23/07/2020,684,active,FAILED,2023/01/09,1535.44,EURO
+10272,Karthik Brown,karthikbrown153@company.com,United States,2021-13-01,808,SUSPENDED,,23-11-2022,2785.23,INR
+10285,John Rao,,United States,26-04-2023,607,INACTIVE,,invalid_date,4830.2,EURO
+10360,David Patel,bad-email@@,US,02-02-2020,644,,PENDING,2022/03/30,1993.77,USD
+10354,Miguel Das,migueldas821@gmail.com,India,2021-10-23,724,INACTIVE,verified,invalid_date,1820.22,INR 
+10951,Sara Singh,bad-email@@,IN,2020-03-08,651,active,FAILED,2023-08-02,2095.17,USD
+10278,Omar Das,,United States,15-09-2023,632,SUSPENDED,FAILED,07-08-2023,4705.33,INR 
+10368,Ravi Das,ravidas975@outlook.com,,29/10/2023,729,ACTIVE,VERIFIED,2022-12-13,1844.98,USD
+10664,Omar Rao,omarrao864@gmail.com,india,05-17-23,752,ACTIVE,verified,15-06-2023,3565.21,usd
+10618,Ravi Das,ravidas981@company.com,IN,02-07-2022,714,SUSPENDED,FAILED,2023-09-11,3139.65,INR 
+10589,John Kumar,johnkumar703@outlook.com,United States of America,2020/01/24,597,ACTIVE,,2024/04/06,3861.22,
+10657,Chen Johnson,chenjohnson193@gmail.com,US,09-20-21,654,ACTIVE,VERIFIED,2024-09-16,2596.37,
+10761,Ravi Nguyen,ravinguyen84@yahoo.com,IN,10-12-2020,200,INACTIVE,VERIFIED,2022/12/28,2819.12,USD
+10456,David Iyer,,U.S.,05-22-21,792,INACTIVE,verified,2022-07-23,2412.14,INR
+10393,Meera Kumar,meerakumar599@company.com,U.S.,16/11/2022,738,SUSPENDED,FAILED,13-01-2023,3327.16,USD
+10684,Meera Smith,meerasmith234@company.com,india,09-23-22,816,ACTIVE,FAILED,2024/09/11,2960.65,INR
+10723,Li Johnson,lijohnson634@yahoo.com,India,05/02/2023,686,active,PENDING,2023-07-09,3650.37,usd
+10375,Alice Nguyen,alicenguyen586@company.com,India,03-23-20,699,INACTIVE,PENDING,2024-03-13,1386.85,usd
+10412,Ravi Wilson,,US,28/12/2020,999,INACTIVE,verified,02-01-2023,,
+10074,Alice Smith,alicesmith65@outlook.com,US,10-20-22,699,ACTIVE,,2022/12/28,3274.72,EURO
+10947,Nina Singh,ninasingh416@outlook.com,USA,03-05-23,653,,PENDING,2022/05/16,-52.74,usd
+10500,Nina Johnson,ninajohnson444@outlook.com,United States of America,05-17-22,738,,FAILED,2023-01-18,4425.14,EURO
+10604,Alice Rao,alicerao146@company.com,india,15-09-2022,676,INACTIVE,FAILED,2022/12/17,2141.96,usd
+10114,Asha Wilson,,USA,2020/07/10,,ACTIVE,PENDING,2022/03/26,1522.61,USD
+10417,John Nguyen,johnnguyen516@yahoo.com,USA,2021-04-21,670,,VERIFIED,2022/03/03,588.69,INR
+10089,Nina Shah,ninashah404@gmail.com,IN,11-25-21,772,ACTIVE,VERIFIED,2022/05/21,574.49,EURO
+10990,Sara Kumar,,USA,2020/12/01,677,ACTIVE,VERIFIED,2024/05/10,1113.85,EURO
+10932,Miguel Johnson,migueljohnson581@outlook.com,U.S.,2021/03/26,abc,,VERIFIED,2023/05/23,538.86,USD
+10874,Miguel Smith,,U.S.,24-11-2020,603,active,verified,2022/11/15,1828.75,USD
+10660,Li Wilson,liwilson420@company.com,USA,2022/05/01,697,ACTIVE,verified,2022/02/12,3385.4,USD
+10011,Karthik Shah,karthikshah223@company.com,USA,04-01-23,,active,,2024-07-30,2440.71,INR
+10396,Ravi Johnson,ravijohnson45@company.com,USA,11-02-2021,660,INACTIVE,PENDING,invalid_date,4535.37,USD
+10575,Meera Iyer,meeraiyer337@company.com,US,,615,active,VERIFIED,2023/12/14,4849.93,USD
+10042,David Rao,davidrao887@outlook.com,United States,07-03-22,616,INACTIVE,PENDING,2023/08/09,,
+10167,David Singh,davidsingh39@outlook.com,United States,2021/07/18,660,SUSPENDED,PENDING,2022/02/20,-94.79,usd
+10416,Arjun Johnson,arjunjohnson730@gmail.com,,11-03-2023,731,INACTIVE,FAILED,29-06-2022,4228.08,INR 
+10967,Chen Garcia,chengarcia970@yahoo.com,india,21-09-2022,764,INACTIVE,VERIFIED,2022-03-30,4823.25,USD
+10426,Arjun Rao,arjunrao2@outlook.com,US,2020/05/23,711,INACTIVE,PENDING,2023-05-14,4034.73,INR
+10544,David Das,daviddas131@outlook.com,india,14-07-2023,,ACTIVE,VERIFIED,2022/07/08,18.17,
+10948,Karthik Garcia,karthikgarcia361@outlook.com,india,29-07-2023,661,ACTIVE,,2022/04/04,779.56,EURO
+10346,John Singh,johnsingh92@yahoo.com,IN,12-14-20,733,active,FAILED,2022/03/31,2356.76,usd
+10904,Karthik Kim,karthikkim44@gmail.com,United States of America,12/07/2023,642,ACTIVE,VERIFIED,2023/04/19,4928.66,USD
+10661,Alice Kumar,alicekumar550@yahoo.com,IN,08/12/2020,804,,FAILED,2022/04/22,4396.94,USD
+10257,Priya Iyer,priyaiyer419@gmail.com,USA,2021/07/06,684,active,,2023/05/17,2023.29,USD
+10335,David Nguyen,davidnguyen735@gmail.com,US,27/04/2023,642,ACTIVE,FAILED,2023/06/01,1429.44,INR 
+10015,Arjun Wilson,bad-email@@,United States,28/07/2023,652,INACTIVE,,06-02-2022,2034.89,USD
+10678,Nina Shah,ninashah805@company.com,US,2021-13-01,726,INACTIVE,VERIFIED,2024-01-06,3365.13,INR
+10324,Miguel Lee,miguellee150@gmail.com,India,02/04/2023,656,ACTIVE,VERIFIED,2024-04-19,3522.22,usd
+10817,Chen Patel,chenpatel507@outlook.com,,2022/10/05,615,INACTIVE,PENDING,2022-11-24,3698.78,
+10222,Meera Wilson,meerawilson123@gmail.com,US,2023/10/16,589,,FAILED,20-05-2023,2352.19,EURO
+10179,Ravi Lee,ravilee127@yahoo.com,IN,2023-12-27,711,ACTIVE,VERIFIED,2023-11-01,1967.23,INR 
+10099,Sara Rao,sararao315@outlook.com,United States,04-10-22,666,SUSPENDED,FAILED,2023-09-22,2165.89,EURO
+10521,Sara Singh,sarasingh29@outlook.com,,2020/02/24,678,SUSPENDED,PENDING,28-09-2023,78.39,INR 
+10022,Li Singh,lisingh915@gmail.com,US,20-05-2022,698,ACTIVE,verified,17-05-2022,2706.41,usd
+10356,Arjun Shah,bad-email@@,IN,07-08-2022,678,ACTIVE,FAILED,2023/04/25,4917.77,
+10720,Ravi Patel,ravipatel211@yahoo.com,IN,2021/01/09,612,SUSPENDED,PENDING,2022/09/18,1758.12,EURO
+10927,Arjun Kumar,arjunkumar674@gmail.com,U.S.,23-06-2021,675,SUSPENDED,verified,2024/09/24,1696.29,INR
+10757,Nina Kumar,ninakumar123@company.com,USA,30/07/2023,665,SUSPENDED,PENDING,2023/12/14,1259.47,INR 
+10340,Alice Lee,alicelee338@company.com,U.S.,2021/04/28,644,,VERIFIED,18-05-2023,1445.75,INR 
+10431,Asha Rao,asharao622@company.com,india,29-12-2023,721,active,VERIFIED,05-11-2022,2227.38,INR 
+10595,Omar Smith,omarsmith280@company.com,USA,2021-13-01,713,,FAILED,2022-04-10,949.5,EURO
+10898,Nina Brown,ninabrown908@outlook.com,US,2023-09-07,833,active,VERIFIED,2024-04-20,,INR 
+10203,Chen Nguyen,chennguyen661@outlook.com,,29/05/2020,675,SUSPENDED,PENDING,2023-11-19,163.01,INR
+10760,Chen Kim,,U.S.,09/07/2020,,,VERIFIED,2022-04-20,1677.87,EURO
+10093,Chen Rao,chenrao286@yahoo.com,,03-09-2021,729,active,FAILED,07-05-2023,433.75,
+10602,Priya Lee,priyalee823@gmail.com,IN,22-11-2020,,ACTIVE,verified,2024/06/06,165.9,INR 
+10068,Nina Shah,ninashah133@outlook.com,US,09-26-21,741,,VERIFIED,24-10-2023,1685.51,INR
+10953,Nina Johnson,ninajohnson627@company.com,U.S.,15/12/2021,626,SUSPENDED,PENDING,2022-11-11,1387.83,USD
+10284,John Rao,johnrao63@company.com,United States of America,30-03-2023,999,ACTIVE,PENDING,2023/06/02,3002.15,usd
+10865,Alice Singh,,US,01/07/2020,577,INACTIVE,FAILED,09-11-2023,648.87,INR
+10434,Nina Kim,ninakim131@company.com,IN,02-17-22,680,active,FAILED,29-02-2024,456.8,
+10153,Arjun Kumar,arjunkumar287@company.com,United States of America,2020-10-31,620,active,VERIFIED,2022-03-31,3141.79,EURO
+10075,Alice Garcia,alicegarcia400@gmail.com,United States of America,2020/03/30,,ACTIVE,FAILED,04-09-2022,2825.9,usd
+10788,Omar Smith,omarsmith939@yahoo.com,india,03/03/2021,770,INACTIVE,PENDING,2024-04-05,2164.67,INR 
+10580,Miguel Wilson,miguelwilson318@yahoo.com,USA,15/02/2022,768,INACTIVE,PENDING,2022/10/30,2347.41,EURO
+10446,Chen Lee,chenlee388@yahoo.com,US,09-09-2020,631,SUSPENDED,,2024/06/05,4462.17,INR
+10188,Omar Johnson,omarjohnson974@outlook.com,IN,2022-01-14,708,SUSPENDED,verified,27-04-2022,1575.06,
+10271,Ravi Lee,ravilee5@gmail.com,India,03-31-20,640,SUSPENDED,VERIFIED,15-08-2023,1468.58,INR
+10236,Alice Lee,alicelee814@yahoo.com,India,2023-04-12,744,,PENDING,2023-01-16,275.29,EURO
+10487,Li Iyer,liiyer189@company.com,USA,2020/07/08,587,active,,07-12-2023,4545.51,EURO
+10559,Omar Nguyen,omarnguyen899@yahoo.com,India,19/04/2021,589,SUSPENDED,VERIFIED,2022/08/13,2125.3,INR
+10117,Chen Brown,,India,2022/07/11,697,active,VERIFIED,2024-03-01,226.6,INR
+10880,Asha Patel,ashapatel671@gmail.com,,2020-05-04,634,INACTIVE,VERIFIED,2023-01-31,2635.66,INR
+10512,Arjun Patel,arjunpatel508@company.com,india,16-12-2020,770,,,04-05-2023,1438.58,USD
+10597,Nina Patel,ninapatel86@company.com,india,20/12/2022,650,,PENDING,2023/10/02,3777.69,usd
+10643,Ravi Wilson,raviwilson632@company.com,,11/04/2021,632,active,PENDING,2024/02/14,2324.29,usd
+10126,Chen Kumar,chenkumar566@yahoo.com,United States,11-08-21,670,active,verified,2022-01-30,2033.67,USD
+10116,David Kumar,davidkumar694@outlook.com,,2021/11/10,592,SUSPENDED,VERIFIED,2022-04-11,3798.83,EURO
+10473,Alice Lee,alicelee372@gmail.com,,28-08-2022,644,INACTIVE,FAILED,17-04-2023,4547.36,INR
+10621,Sara Iyer,saraiyer911@outlook.com,USA,04-02-22,abc,SUSPENDED,verified,30-08-2023,2797.48,EURO
+10057,Omar Kim,omarkim96@gmail.com,U.S.,16/07/2020,652,ACTIVE,verified,2022/12/29,3549.52,usd
+10728,,user95@yahoo.com,,12/04/2020,632,SUSPENDED,PENDING,2022-08-23,1005.44,USD
+10980,Sara Kim,sarakim199@company.com,,,619,INACTIVE,,09-07-2024,,usd
+10369,Omar Kumar,omarkumar430@company.com,U.S.,10-26-23,728,,,2024/07/31,866.69,EURO
+10268,Chen Smith,chensmith914@outlook.com,,2021/11/17,636,SUSPENDED,,invalid_date,1524.94,usd
+10046,Priya Shah,priyashah921@gmail.com,United States of America,08-12-21,692,active,FAILED,2023-04-13,4237.34,USD
+10349,Nina Rao,bad-email@@,India,10-30-22,728,ACTIVE,,03-07-2022,1563.72,INR 
+10195,Sara Das,saradas795@yahoo.com,india,2021/08/25,737,active,VERIFIED,2023/03/15,2836.73,usd
+10102,Asha Smith,ashasmith434@gmail.com,IN,2023-12-05,648,SUSPENDED,verified,04-07-2022,3158.58,INR 
+10899,Arjun Nguyen,bad-email@@,United States of America,2021-06-09,674,INACTIVE,PENDING,2024/03/27,2687.73,INR
+10745,Karthik Johnson,karthikjohnson429@outlook.com,india,25/09/2021,619,ACTIVE,PENDING,2022-04-21,181.9,usd
+10893,John Das,johndas957@company.com,United States,2020/05/29,691,SUSPENDED,VERIFIED,2023/11/19,2931.04,USD
+10263,Omar Garcia,omargarcia152@yahoo.com,USA,2021-13-01,745,SUSPENDED,FAILED,2024-07-31,726.89,
+10443,Karthik Kim,karthikkim144@outlook.com,United States of America,24/11/2023,732,ACTIVE,VERIFIED,invalid_date,4251.64,INR
+10792,John Patel,johnpatel892@gmail.com,,08-02-23,754,ACTIVE,,2022/05/23,4037.72,INR
+10304,Li Wilson,liwilson914@yahoo.com,United States,2023-03-20,676,active,,08-02-2023,2152.7,INR
+10341,Meera Johnson,meerajohnson487@company.com,IN,2021-09-23,,ACTIVE,PENDING,2022/09/17,3443.21,
+10936,Ravi Brown,ravibrown123@yahoo.com,U.S.,02-24-20,743,active,,2024-04-05,655.29,USD
+10313,Priya Das,priyadas160@company.com,USA,01-23-23,766,,PENDING,2024/03/29,384.04,INR 
+10149,Omar Kumar,omarkumar949@company.com,U.S.,06/12/2023,,INACTIVE,PENDING,2024-03-09,654.75,INR 
+10124,Arjun Patel,,India,03-30-21,631,active,,2023/12/09,2310.41,usd
+10846,John Iyer,johniyer437@outlook.com,USA,24-04-2022,658,SUSPENDED,FAILED,02-09-2024,-160.6,
+10885,Ravi Patel,ravipatel31@outlook.com,U.S.,11-17-20,621,,PENDING,2022-06-21,-122.51,INR
+10050,Sara Shah,sarashah843@outlook.com,IN,09-08-2020,724,ACTIVE,verified,20-07-2024,526.84,USD
+10353,Omar Patel,omarpatel858@gmail.com,IN,2020-11-10,646,,VERIFIED,04-12-2022,2156.13,
+10998,Meera Kim,meerakim507@outlook.com,United States,21/05/2022,697,SUSPENDED,,29-11-2022,685.62,usd
+10142,Arjun Nguyen,arjunnguyen318@gmail.com,U.S.,2021-13-01,,active,VERIFIED,2023-04-10,3656.81,
+10470,Nina Brown,,US,03-29-20,673,SUSPENDED,,2024-04-17,2396.1,usd
+10399,Chen Shah,chenshah770@outlook.com,,2022/02/05,630,active,verified,02-10-2022,2836.71,USD
+10929,Arjun Nguyen,arjunnguyen740@company.com,IN,12/02/2021,580,active,,2024-03-06,4510.91,INR
+10320,Omar Kim,,india,10-07-2023,691,SUSPENDED,FAILED,2023/12/03,2816.24,INR
+10019,Nina Lee,ninalee533@gmail.com,,07-11-2023,646,ACTIVE,FAILED,2023/06/04,3425.48,EURO
+10907,Priya Patel,priyapatel475@yahoo.com,,11/04/2020,abc,INACTIVE,VERIFIED,invalid_date,4778.44,EURO
+10850,,user475@gmail.com,US,2021-13-01,698,INACTIVE,FAILED,2022/03/23,2559.61,usd
+10894,Omar Das,omardas95@company.com,U.S.,2020/10/09,628,ACTIVE,verified,2022/02/24,1705.5,INR
+10407,John Brown,johnbrown401@outlook.com,United States,14-08-2020,,INACTIVE,PENDING,2024/06/10,3256.92,INR
+10537,Ravi Iyer,bad-email@@,IN,18-05-2023,632,ACTIVE,FAILED,2024/08/18,4029.81,INR
+10693,John Shah,bad-email@@,india,2021-13-01,684,INACTIVE,,24-11-2022,-99.87,usd
+10038,Asha Wilson,ashawilson591@company.com,USA,2020/12/24,662,active,VERIFIED,2023/04/27,343.92,INR
+10175,Nina Johnson,ninajohnson888@gmail.com,US,25-08-2022,726,INACTIVE,PENDING,25-07-2022,4930.58,INR
+10245,Miguel Nguyen,bad-email@@,IN,15-11-2020,714,,verified,06-08-2023,1488.4,INR 
+10892,Alice Nguyen,alicenguyen130@yahoo.com,USA,27-06-2020,709,,,2023-07-27,1374.17,USD
+10721,John Patel,johnpatel466@outlook.com,,10/04/2023,826,active,,2022/04/21,526.58,USD
+10943,Omar Patel,omarpatel283@outlook.com,US,2021-04-28,736,,FAILED,invalid_date,942.71,INR 
+10924,Miguel Singh,miguelsingh393@gmail.com,india,2023/12/05,744,SUSPENDED,,2022/10/21,-11.88,INR 
+10154,Chen Garcia,chengarcia492@company.com,,19/09/2022,646,INACTIVE,VERIFIED,2024/07/06,4955.96,EURO
+10638,David Smith,davidsmith642@gmail.com,United States of America,05-22-22,612,,VERIFIED,01-04-2022,4298.44,INR
+10287,Omar Rao,omarrao13@outlook.com,India,2022/07/08,651,SUSPENDED,verified,2023/09/18,1188.86,USD
+10625,Arjun Singh,arjunsingh969@company.com,India,2020/05/13,695,active,verified,2022/01/17,4466.12,USD
+10741,Asha Singh,ashasingh342@gmail.com,IN,30/08/2020,771,active,verified,2024-05-19,657.45,INR
+10569,Asha Garcia,bad-email@@,US,10/06/2022,622,,PENDING,25-05-2022,2992.8,
+10801,Karthik Kumar,karthikkumar857@gmail.com,India,07/01/2020,785,,verified,invalid_date,3877.2,INR 
+10017,Chen Kim,chenkim274@yahoo.com,United States,2023-12-07,565,SUSPENDED,FAILED,2024-04-20,3232.17,INR 
+10127,Meera Johnson,meerajohnson592@gmail.com,US,04-01-2023,704,SUSPENDED,,02-02-2023,1630.32,INR 
+10322,Miguel Smith,miguelsmith143@company.com,United States of America,05-08-23,abc,ACTIVE,PENDING,2022-05-12,1398.63,INR
+10255,Li Kim,likim672@yahoo.com,United States,2021-10-12,650,ACTIVE,FAILED,2024/06/20,3677.17,
+10790,Sara Singh,,,04-13-22,,INACTIVE,PENDING,invalid_date,2847.67,usd
+10499,Li Rao,lirao205@outlook.com,US,12-14-21,665,INACTIVE,PENDING,2024/08/12,-82.15,EURO
+10190,,user791@gmail.com,United States of America,07-25-22,719,active,,2023-05-10,702.98,INR
+10115,Miguel Smith,miguelsmith278@outlook.com,USA,01/06/2020,,SUSPENDED,VERIFIED,2024-09-11,3506.1,INR 
+10665,Ravi Kim,,india,2021-13-01,,active,,03-05-2022,,EURO
+10606,Arjun Johnson,bad-email@@,india,,625,,verified,2023-05-04,3148.03,EURO
+10180,David Iyer,davidiyer309@gmail.com,U.S.,2023-09-17,697,ACTIVE,,2024/01/07,352.57,INR
+10301,Karthik Kumar,bad-email@@,,2020-08-25,706,SUSPENDED,PENDING,2024-03-08,3636.29,INR
+10829,Arjun Singh,arjunsingh148@outlook.com,United States of America,14-11-2023,595,active,PENDING,invalid_date,2479.63,
+10900,Arjun Brown,arjunbrown785@outlook.com,US,2022-04-26,748,SUSPENDED,,26-03-2022,-15.29,usd
+10780,Karthik Shah,karthikshah737@gmail.com,United States,24/12/2021,645,SUSPENDED,PENDING,2022-03-29,2797.2,INR 
+10739,Omar Wilson,omarwilson826@company.com,india,2021-04-08,745,active,VERIFIED,2024/09/01,569.45,INR
+10715,Omar Garcia,omargarcia879@yahoo.com,,2020-10-24,,INACTIVE,PENDING,04-10-2023,971.78,usd
+10517,Asha Nguyen,ashanguyen296@company.com,US,2020/01/18,577,,PENDING,2022-11-07,-118.92,USD
+10372,Nina Rao,,IN,04-28-21,720,SUSPENDED,FAILED,19-10-2022,527.85,INR 
+10045,Li Johnson,bad-email@@,USA,23/08/2021,606,INACTIVE,PENDING,2022/03/22,1052.31,EURO
+10977,Karthik Iyer,karthikiyer795@company.com,U.S.,2023/07/30,599,active,PENDING,2022-08-11,532.73,INR 
+10157,Ravi Kim,ravikim23@gmail.com,United States,16-04-2023,649,active,,2022/04/14,619.02,INR 
+10802,Sara Garcia,saragarcia96@company.com,,02-22-22,,INACTIVE,VERIFIED,2023/07/30,4119.19,INR
+10171,,user230@gmail.com,India,30/05/2023,758,active,FAILED,12-08-2022,3042.75,EURO
+10016,Miguel Kim,miguelkim216@company.com,india,2023-09-27,694,INACTIVE,PENDING,2024-09-26,-71.11,
+10511,Arjun Kumar,arjunkumar532@outlook.com,U.S.,2020-08-11,723,SUSPENDED,PENDING,2022/03/09,3025.15,
+10048,Omar Das,omardas644@yahoo.com,US,2023-07-09,600,SUSPENDED,FAILED,2024-02-05,2604.92,usd
+10191,Omar Nguyen,omarnguyen429@outlook.com,india,2021/07/14,621,,FAILED,2024/05/13,4664.66,
+10905,Chen Johnson,chenjohnson56@outlook.com,United States,2020-12-10,788,SUSPENDED,VERIFIED,2023-11-30,3267.68,INR
+10515,Asha Wilson,ashawilson277@gmail.com,,2024-01-31,777,ACTIVE,PENDING,2023/08/15,3670.7,INR
+10734,Priya Kumar,priyakumar919@yahoo.com,US,2021-13-01,649,active,VERIFIED,05-09-2023,10.73,INR 
+10740,Meera Kim,meerakim949@yahoo.com,US,11-29-23,578,INACTIVE,PENDING,01-10-2023,1432.58,USD
+10480,Chen Kumar,,U.S.,09-03-22,615,ACTIVE,PENDING,24-06-2024,3797.89,INR
+10283,Omar Shah,,,02/04/2023,abc,active,,16-07-2024,1635.16,usd
+10774,Meera Wilson,meerawilson63@outlook.com,United States of America,04-07-21,683,SUSPENDED,verified,2022-06-07,-160.36,usd
+10706,Meera Smith,,India,04-09-2020,,SUSPENDED,verified,2024/08/31,-145.04,EURO
+10225,Chen Lee,chenlee150@yahoo.com,United States,2022-08-26,692,SUSPENDED,verified,04-11-2022,,USD
+10026,Arjun Rao,arjunrao638@yahoo.com,,2020/02/25,,active,PENDING,2024-06-06,1502.23,INR 
+10842,Meera Kim,meerakim301@gmail.com,india,2022/06/02,686,SUSPENDED,,2022/04/17,268.52,USD
+10437,Sara Singh,sarasingh401@outlook.com,US,17/12/2022,681,SUSPENDED,,05-06-2024,3204.1,EURO
+10371,Ravi Smith,,,28/04/2023,681,ACTIVE,VERIFIED,2022/11/17,2380.97,USD
+10364,Priya Kumar,priyakumar104@outlook.com,U.S.,08/10/2022,667,INACTIVE,PENDING,27-04-2024,,USD
+10229,Chen Singh,chensingh269@gmail.com,United States,2020/06/21,626,INACTIVE,VERIFIED,2022/02/05,2229.41,EURO
+10037,Ravi Das,ravidas450@company.com,US,17/08/2022,643,ACTIVE,verified,2024/01/23,,INR
+10669,Alice Garcia,alicegarcia53@outlook.com,india,20/03/2021,567,active,VERIFIED,12-12-2023,1221.26,
+10370,Nina Shah,ninashah795@outlook.com,india,2021-13-01,758,INACTIVE,verified,2022/08/18,3214.79,usd
+10374,Arjun Wilson,arjunwilson451@outlook.com,United States of America,2024/02/07,661,,,2022/05/01,3681.78,EURO
+10469,Miguel Wilson,bad-email@@,india,19-02-2020,761,active,VERIFIED,2023-05-19,4773.63,usd
+10198,John Shah,johnshah396@gmail.com,India,2021-13-01,793,,VERIFIED,20-05-2022,4187.29,EURO
+10687,John Brown,johnbrown639@yahoo.com,IN,06-15-20,652,active,verified,2024/03/07,1691.67,USD
+10916,Li Shah,lishah535@gmail.com,United States of America,2024-01-20,675,INACTIVE,,16-01-2023,2860.41,usd
+10758,Karthik Brown,,India,2021-13-01,663,INACTIVE,,2023-09-10,294.82,usd
+10783,,user421@yahoo.com,,07-31-22,678,,PENDING,2022/05/09,4626.32,INR 
+10194,Arjun Lee,arjunlee710@company.com,USA,2022/02/20,630,SUSPENDED,PENDING,2023/09/28,4539.73,
+10920,Li Smith,lismith284@gmail.com,United States,24-03-2021,599,ACTIVE,PENDING,2023-01-17,3748.38,EURO
+10930,Sara Johnson,sarajohnson587@gmail.com,IN,20/06/2023,705,SUSPENDED,,2023/01/26,4237.93,INR
+10503,John Das,bad-email@@,India,2022-05-12,622,SUSPENDED,VERIFIED,22-10-2023,4540.54,usd
+10687,John Brown,johnbrown639@yahoo.com,IN,06-15-20,652,active,FAILED,21-09-2022,4198.8,USD
+10895,Karthik Brown,karthikbrown327@gmail.com,U.S.,2021-13-01,722,active,VERIFIED,29-12-2023,,
+10579,Miguel Iyer,,US,2021-01-08,679,INACTIVE,FAILED,17-04-2023,1400.47,
+10160,John Singh,johnsingh906@yahoo.com,U.S.,2022/10/06,684,INACTIVE,PENDING,2023-04-08,1457.33,USD
+10680,Meera Johnson,meerajohnson717@yahoo.com,US,2023-12-10,748,,FAILED,08-09-2023,2017.92,usd
+10162,David Johnson,bad-email@@,,2021-13-01,,ACTIVE,FAILED,23-04-2024,304.33,INR
+10705,Meera Nguyen,meeranguyen232@gmail.com,United States of America,14-11-2020,732,ACTIVE,FAILED,2022/09/05,2618.23,USD
+10756,Priya Singh,priyasingh38@gmail.com,United States of America,,589,ACTIVE,FAILED,2024-06-01,2892.17,EURO
+10152,Omar Patel,omarpatel23@gmail.com,US,2021/02/08,811,active,VERIFIED,2022/06/22,1853.99,USD
+10800,Li Smith,lismith656@outlook.com,US,2022/07/25,613,INACTIVE,,14-09-2023,4520.87,
+10754,Chen Patel,chenpatel398@yahoo.com,india,21/01/2023,780,ACTIVE,PENDING,30-05-2022,2581.01,INR 
+10814,Chen Kim,chenkim336@yahoo.com,U.S.,07-24-22,706,,,09-07-2023,4756.05,INR
+10111,Omar Rao,omarrao174@company.com,United States,01-15-24,637,ACTIVE,VERIFIED,2024-08-25,1944.44,
+10226,John Lee,johnlee461@gmail.com,IN,16/06/2021,605,SUSPENDED,,23-07-2022,707.6,usd
+10883,Asha Garcia,ashagarcia601@outlook.com,,19-11-2022,624,active,,2023/12/21,4166.68,
+10103,Miguel Singh,miguelsingh385@outlook.com,US,10-30-23,631,INACTIVE,PENDING,invalid_date,,usd
+10421,Sara Singh,sarasingh518@outlook.com,U.S.,2021-13-01,619,SUSPENDED,,05-07-2023,1778.34,usd
+10419,John Kim,johnkim623@yahoo.com,U.S.,03/12/2022,,active,VERIFIED,03-09-2024,4679.03,INR
+10808,Karthik Kim,,USA,23-02-2021,709,active,PENDING,24-04-2024,2232.18,EURO
+10586,,user716@outlook.com,india,2022/08/25,668,INACTIVE,verified,2024/03/02,3597.93,INR 
+10076,Sara Garcia,saragarcia713@outlook.com,United States of America,17-07-2023,738,ACTIVE,FAILED,2022-07-19,2967.85,EURO
+10672,Karthik Kumar,karthikkumar122@outlook.com,,2023/06/20,780,INACTIVE,VERIFIED,2023/11/11,4.77,INR 
+10119,Sara Wilson,sarawilson798@outlook.com,US,01-24-24,680,INACTIVE,FAILED,2022-11-05,2060.32,INR 
+10053,Meera Kumar,meerakumar601@yahoo.com,india,22/04/2021,661,INACTIVE,,2022-09-14,-65.94,USD
+10151,David Wilson,bad-email@@,U.S.,07-15-22,715,ACTIVE,VERIFIED,2024-04-30,4083.1,usd
+10403,,user887@yahoo.com,U.S.,11-04-2021,651,active,verified,2022/12/15,2029.72,
+10280,Li Singh,lisingh679@yahoo.com,United States,30-08-2022,673,INACTIVE,VERIFIED,2023-05-01,226.14,
+10207,Chen Garcia,chengarcia754@yahoo.com,United States of America,2022-01-04,,SUSPENDED,PENDING,13-02-2022,1678.51,INR 
+10658,Li Garcia,ligarcia698@company.com,USA,2021-03-15,703,active,PENDING,2023-08-08,,INR 
+10909,Sara Kim,sarakim355@company.com,india,02-04-22,717,active,,21-08-2024,,EURO
+10978,Ravi Patel,bad-email@@,US,03/04/2020,624,active,,28-07-2024,268.25,EURO
+10008,Meera Nguyen,meeranguyen235@gmail.com,US,05/03/2020,774,,,2023/04/30,790.13,USD
+10869,Omar Garcia,omargarcia714@outlook.com,,20/06/2022,738,SUSPENDED,,25-09-2022,,USD
+10036,Li Nguyen,bad-email@@,India,18/12/2023,702,,PENDING,2023-03-12,4523.74,INR
+10452,Meera Kim,meerakim958@gmail.com,United States of America,2021-13-01,,active,FAILED,2022-11-02,3556.65,INR 
+10651,John Shah,johnshah92@company.com,US,04-06-22,695,SUSPENDED,PENDING,2022-04-09,4371.14,INR 
+10253,Karthik Johnson,karthikjohnson19@yahoo.com,IN,02/11/2023,633,ACTIVE,FAILED,2024-06-18,4735.41,INR
+10303,Priya Singh,priyasingh619@company.com,United States,07-30-23,624,,verified,01-06-2024,2206.37,USD
+10910,Miguel Kim,miguelkim735@outlook.com,United States of America,2021-13-01,738,SUSPENDED,PENDING,2024-01-04,2765.44,usd
+10571,Priya Nguyen,priyanguyen354@yahoo.com,USA,29/01/2021,692,active,FAILED,29-07-2023,2881.72,USD
+10623,Omar Lee,omarlee239@company.com,india,2021-12-28,582,active,PENDING,invalid_date,832.92,INR 
+10764,Arjun Kumar,arjunkumar589@gmail.com,USA,27-08-2023,,ACTIVE,FAILED,2022-07-31,3885.11,usd
+10992,Miguel Smith,,india,04/04/2020,612,,FAILED,2023/10/23,304.88,usd
+10262,John Nguyen,bad-email@@,United States of America,10-18-22,651,active,verified,29-03-2023,,EURO
+10610,Alice Garcia,alicegarcia202@gmail.com,United States of America,2020/08/26,710,,VERIFIED,2023-08-19,2101.74,
+10297,Chen Nguyen,chennguyen346@outlook.com,U.S.,2021-10-26,650,ACTIVE,,2022-06-27,3739.26,INR
+10414,John Singh,,USA,21-11-2021,768,INACTIVE,PENDING,2022-02-15,1477.93,
+10150,Alice Garcia,alicegarcia316@outlook.com,United States of America,2021-06-26,595,INACTIVE,FAILED,2022-06-01,1860.47,USD
+10848,David Iyer,davidiyer473@company.com,U.S.,2021-13-01,,ACTIVE,,invalid_date,,
+10640,David Patel,davidpatel575@outlook.com,U.S.,05-27-23,,ACTIVE,,2024-05-08,410.86,INR
+10956,David Shah,davidshah484@company.com,United States,2020-09-14,766,ACTIVE,PENDING,11-01-2024,-57.59,
+10550,David Brown,davidbrown518@outlook.com,United States,2023/03/25,200,active,FAILED,2024/02/23,457.27,USD
+10851,Meera Das,meeradas26@yahoo.com,USA,2023/03/03,577,active,,2022-09-17,-171.57,INR
+10488,John Garcia,johngarcia741@gmail.com,United States,2021-13-01,756,SUSPENDED,VERIFIED,2024/03/22,3555.89,INR 
+10710,John Johnson,johnjohnson179@outlook.com,United States of America,2021-13-01,792,ACTIVE,PENDING,2023-05-09,3671.56,
+10147,Chen Das,bad-email@@,U.S.,18-02-2020,abc,SUSPENDED,VERIFIED,17-02-2024,340.53,EURO
+10146,Alice Kim,alicekim336@company.com,US,2021-13-01,625,,PENDING,2023/04/21,3834.61,
+10777,Li Kumar,likumar574@gmail.com,United States of America,03-19-22,,INACTIVE,,2024-06-15,63.94,EURO
+10740,Meera Kim,meerakim949@yahoo.com,US,11-29-23,578,INACTIVE,VERIFIED,01-11-2022,2830.76,USD
+10853,Arjun Patel,arjunpatel774@gmail.com,US,2020-08-26,724,SUSPENDED,,30-08-2022,3517.49,
+10950,Li Smith,,U.S.,2023/02/23,693,,verified,2023/08/31,262.94,INR
+10659,Li Patel,bad-email@@,india,12/09/2023,654,ACTIVE,PENDING,26-05-2022,4386.11,INR 
+10348,Asha Brown,ashabrown731@yahoo.com,U.S.,2023/12/21,,ACTIVE,VERIFIED,2022/12/07,4983.05,
+10463,Asha Lee,ashalee176@gmail.com,india,04-03-20,709,SUSPENDED,VERIFIED,2023-10-20,-192.72,usd
+10325,Chen Garcia,,US,03-14-21,686,ACTIVE,PENDING,2024/05/04,2474.11,INR 
+10186,Omar Rao,omarrao153@outlook.com,,2021-13-01,637,active,PENDING,2022/03/18,4844.75,USD
+10123,Arjun Garcia,arjungarcia557@outlook.com,USA,01-06-22,659,INACTIVE,,15-02-2022,1878.01,usd
+10919,Ravi Smith,ravismith286@outlook.com,india,06-02-2024,690,SUSPENDED,,09-09-2023,,INR
+10608,Omar Lee,omarlee861@gmail.com,,12-04-2021,645,SUSPENDED,,11-09-2024,213.13,USD
+10143,John Rao,bad-email@@,United States of America,12-11-21,748,SUSPENDED,VERIFIED,2024/02/29,1214.3,USD
+10751,David Garcia,davidgarcia17@outlook.com,,09/02/2024,602,,FAILED,2024-03-09,1822.94,
+10947,Nina Singh,ninasingh416@outlook.com,USA,03-05-23,653,,PENDING,2022/10/13,1077.96,usd
+10197,Karthik Kumar,karthikkumar358@gmail.com,india,12/03/2021,729,,VERIFIED,2022/04/28,3139.77,EURO
+10609,Karthik Lee,karthiklee707@yahoo.com,india,2021/04/12,725,ACTIVE,PENDING,2023-06-20,2845.52,EURO
+10279,Miguel Brown,miguelbrown868@outlook.com,United States,2021-08-25,,,FAILED,2022-04-23,3451.55,INR 
+10293,Chen Patel,bad-email@@,United States of America,09-05-20,735,ACTIVE,FAILED,2023/07/02,2190.12,usd
+10896,Miguel Rao,miguelrao471@gmail.com,United States,08-03-2021,645,,FAILED,2024/06/27,,USD
+10400,Miguel Lee,miguellee314@yahoo.com,U.S.,02-11-22,694,SUSPENDED,verified,16-06-2023,,EURO
+10122,,user449@yahoo.com,India,2023-11-19,654,INACTIVE,FAILED,2023/11/06,184.62,EURO
+10183,,user367@company.com,United States of America,27/06/2023,639,active,FAILED,2024/05/05,3174.0,INR
+10202,John Garcia,johngarcia6@gmail.com,U.S.,01-05-23,631,active,,2022-05-26,1114.26,USD
+10438,Li Iyer,liiyer824@yahoo.com,india,2023-08-26,709,active,verified,2023-11-27,4865.63,INR
+10246,Asha Kim,ashakim610@gmail.com,India,03-17-20,748,active,verified,2024-08-10,4217.29,USD
+10415,Meera Kim,meerakim238@gmail.com,india,,abc,INACTIVE,verified,2022/08/14,1718.7,USD
+10836,Nina Wilson,ninawilson192@gmail.com,United States,2022-06-20,692,active,VERIFIED,2022/08/08,4746.43,EURO
+10824,Karthik Patel,karthikpatel47@company.com,USA,25/06/2023,668,ACTIVE,VERIFIED,2024/03/05,2551.9,USD
+10974,Li Das,lidas681@company.com,United States,2020/03/28,648,,FAILED,10-04-2022,3204.45,USD
+10827,Asha Nguyen,ashanguyen981@company.com,US,,abc,ACTIVE,VERIFIED,2022/06/09,2848.92,INR
+10954,Miguel Nguyen,miguelnguyen854@yahoo.com,India,07-18-21,668,,,2022-06-25,2402.62,INR
+10129,Ravi Garcia,ravigarcia323@yahoo.com,United States of America,2023-06-22,690,,,31-10-2023,3492.74,INR 
+10637,Omar Kumar,omarkumar779@company.com,IN,2020-01-23,730,active,FAILED,21-04-2024,599.12,
+10402,Karthik Lee,karthiklee310@company.com,India,01-25-21,649,ACTIVE,FAILED,2022/10/16,4073.68,
+10844,Li Shah,,india,01-05-24,200,INACTIVE,verified,2022-05-02,1666.88,usd
+10830,Miguel Brown,miguelbrown539@gmail.com,india,12-20-20,586,,PENDING,2024-06-18,3045.15,USD
+10735,Sara Lee,saralee104@gmail.com,United States,,999,SUSPENDED,,2023/04/17,64.77,EURO
+10981,Ravi Kim,ravikim676@yahoo.com,USA,2020/05/02,633,INACTIVE,PENDING,2022-07-01,2408.33,INR 
+10219,Sara Brown,sarabrown466@yahoo.com,U.S.,2023-03-23,708,ACTIVE,,06-09-2024,2789.45,
+10641,Omar Rao,omarrao736@outlook.com,USA,2021/12/12,766,active,VERIFIED,2022-08-10,1510.6,usd
+10983,,,United States,09-21-23,694,,,2024/01/19,2197.65,EURO
+10810,Meera Shah,meerashah548@outlook.com,US,2020/10/17,722,INACTIVE,VERIFIED,18-06-2024,748.44,
+10867,Alice Singh,bad-email@@,india,28/11/2023,708,active,VERIFIED,01-03-2024,2598.85,EURO
+10988,John Garcia,,United States of America,2021/09/20,667,ACTIVE,,18-07-2022,385.23,INR 
+10624,Alice Patel,alicepatel167@gmail.com,india,2020/09/03,682,ACTIVE,,04-01-2023,2176.16,USD
+10903,David Singh,davidsingh343@company.com,USA,2022/07/01,786,ACTIVE,FAILED,2024-09-10,3591.77,USD
+10819,David Kim,davidkim873@company.com,IN,03/07/2021,715,,FAILED,10-07-2022,3354.33,
+10386,Omar Kim,omarkim828@company.com,india,2021/04/24,717,ACTIVE,PENDING,2024-04-20,2759.33,INR 
+10901,,user228@outlook.com,United States,2020/05/20,637,SUSPENDED,verified,23-02-2022,1726.11,INR 
+10806,Ravi Smith,ravismith744@yahoo.com,U.S.,23-04-2022,612,active,verified,invalid_date,3436.26,EURO
+10509,Ravi Lee,ravilee889@outlook.com,,2021/02/19,557,ACTIVE,PENDING,18-04-2023,-113.74,INR 
+10267,,user316@gmail.com,India,,720,,VERIFIED,2024/05/02,4595.85,INR 
+10881,Miguel Lee,miguellee13@company.com,USA,2023-12-04,643,ACTIVE,verified,2022/12/20,4567.31,usd
+10441,Alice Rao,alicerao416@yahoo.com,USA,03-17-22,809,,VERIFIED,11-02-2024,739.45,EURO
+10496,Omar Smith,omarsmith654@gmail.com,US,2020/08/15,803,ACTIVE,verified,2024-05-14,2353.39,USD
+10112,Li Kumar,,,22/07/2022,660,ACTIVE,VERIFIED,2023-06-29,,
+10691,John Shah,johnshah335@yahoo.com,USA,11/08/2023,,,VERIFIED,2024-01-11,4620.13,INR
+10232,Arjun Wilson,arjunwilson641@outlook.com,india,11-24-22,611,active,PENDING,2024-05-23,3111.84,EURO
+10935,John Shah,johnshah835@company.com,United States,06-18-22,615,ACTIVE,VERIFIED,2022/01/26,726.54,INR
+10607,Sara Garcia,saragarcia664@outlook.com,United States,2022/12/11,,ACTIVE,FAILED,2022-08-19,2964.93,
+10671,,user874@company.com,US,03/10/2021,681,SUSPENDED,,2024/07/15,711.13,usd
+10373,Meera Patel,meerapatel466@company.com,US,2020/10/27,,INACTIVE,verified,2022/08/08,1894.32,EURO
+10663,Karthik Das,karthikdas45@company.com,USA,08/11/2020,660,ACTIVE,verified,2023/01/25,971.23,
+10908,David Das,daviddas4@gmail.com,India,14-12-2021,646,SUSPENDED,VERIFIED,15-03-2022,287.74,INR
+10233,Li Nguyen,linguyen51@yahoo.com,,15-02-2020,200,INACTIVE,VERIFIED,2023/05/21,3957.2,usd
+10938,Miguel Lee,miguellee233@outlook.com,india,,720,INACTIVE,PENDING,2023-06-18,2610.33,USD
+10845,Arjun Johnson,arjunjohnson266@gmail.com,US,2020-11-15,,ACTIVE,FAILED,2023-09-21,1245.24,INR
+10676,John Rao,johnrao376@company.com,,2022/05/19,547,SUSPENDED,FAILED,27-03-2022,3264.36,usd
+10317,Karthik Iyer,karthikiyer205@yahoo.com,United States,20/02/2022,680,,verified,invalid_date,,usd
+10648,Nina Lee,ninalee477@yahoo.com,India,2023-03-22,685,ACTIVE,,2023-04-05,2278.46,
+10410,Alice Rao,alicerao422@outlook.com,,05/09/2020,667,SUSPENDED,PENDING,invalid_date,,
+10965,John Iyer,johniyer677@company.com,,2022-08-05,648,active,VERIFIED,30-09-2023,750.96,usd
+10709,Chen Rao,chenrao98@outlook.com,USA,01-11-2023,,,verified,2022/03/12,2738.26,EURO
+10358,Ravi Das,ravidas427@gmail.com,India,10-04-21,687,INACTIVE,PENDING,09-07-2022,3301.73,INR 
+10258,Asha Singh,ashasingh534@gmail.com,US,2022/07/13,818,ACTIVE,,01-02-2023,787.22,INR 
+10744,Nina Johnson,ninajohnson142@company.com,US,08-04-22,654,INACTIVE,FAILED,2022/02/02,3413.53,INR 
+10627,Miguel Kim,,United States,2020/03/02,718,ACTIVE,VERIFIED,invalid_date,3621.74,INR
+10632,Omar Das,omardas262@yahoo.com,IN,09-25-22,682,SUSPENDED,verified,invalid_date,291.83,INR 
+10282,Nina Brown,,USA,2023/03/09,731,,FAILED,22-04-2023,259.92,INR 
+10376,Asha Rao,asharao70@company.com,USA,2022/05/05,672,,PENDING,20-02-2024,2139.63,INR 
+10384,Chen Rao,chenrao350@company.com,india,07-30-22,749,ACTIVE,VERIFIED,20-11-2023,3457.16,INR 
+10224,Nina Wilson,ninawilson276@yahoo.com,United States of America,09/06/2023,731,active,FAILED,2023-04-07,3367.26,USD
+10101,Karthik Iyer,,india,01-08-24,768,active,FAILED,21-02-2022,891.58,USD
+10876,Nina Kim,ninakim954@gmail.com,India,02-07-2022,681,ACTIVE,PENDING,2024-01-18,2549.56,INR
+10472,Arjun Brown,arjunbrown617@outlook.com,IN,10-10-2020,584,INACTIVE,verified,2022/03/27,3838.28,
+10347,Priya Singh,priyasingh844@yahoo.com,India,28-01-2024,698,,verified,18-07-2024,2182.45,USD
+10505,Priya Wilson,priyawilson961@company.com,US,2021-13-01,,ACTIVE,FAILED,2024/06/01,257.69,
+10639,Omar Iyer,omariyer59@outlook.com,US,27/07/2021,711,SUSPENDED,VERIFIED,2022/01/14,2373.88,EURO
+10277,Priya Patel,priyapatel842@gmail.com,United States of America,26/12/2020,731,active,PENDING,23-12-2023,3694.81,EURO
+10797,John Lee,johnlee55@gmail.com,US,28/09/2023,657,,,2023/12/26,745.25,USD
+10999,Asha Brown,,US,25/10/2022,827,,VERIFIED,2023-01-07,2161.36,usd
+10973,Omar Brown,omarbrown607@yahoo.com,India,2020-08-27,774,,FAILED,20-11-2022,1009.48,INR
+10619,Priya Das,,,05-03-20,634,SUSPENDED,,2023/05/19,3619.06,EURO
+10952,Nina Shah,ninashah229@outlook.com,IN,2021-02-25,755,INACTIVE,,14-06-2022,1358.49,USD
+10864,Arjun Johnson,arjunjohnson273@yahoo.com,,03-30-22,,active,PENDING,2022-09-22,3715.06,INR 
+10645,David Kumar,davidkumar137@outlook.com,U.S.,31/07/2020,667,INACTIVE,,2022/06/08,,INR
+10912,Alice Iyer,aliceiyer643@gmail.com,United States,09-16-23,585,ACTIVE,VERIFIED,25-01-2024,,INR 
+10556,Alice Rao,alicerao911@outlook.com,U.S.,07/10/2022,663,ACTIVE,PENDING,2024-01-15,1235.76,
+10681,Karthik Smith,karthiksmith289@company.com,United States,2020-05-12,700,ACTIVE,verified,13-01-2022,2858.32,usd
+10577,Li Smith,lismith874@company.com,india,09-03-23,781,INACTIVE,,10-01-2024,,
+10795,Chen Smith,chensmith329@gmail.com,india,23-07-2020,555,,PENDING,2023/03/23,2323.4,EURO
+10085,David Shah,davidshah510@gmail.com,,16/08/2021,701,ACTIVE,PENDING,2023/03/27,2954.63,usd
+10242,Alice Patel,alicepatel198@yahoo.com,,07-09-2023,710,,FAILED,22-11-2023,341.33,INR
+10698,Miguel Smith,miguelsmith100@yahoo.com,USA,23-01-2022,649,ACTIVE,FAILED,invalid_date,537.56,INR 
+10940,Alice Brown,alicebrown915@yahoo.com,,10-20-23,,active,verified,2024/08/03,1143.01,INR 
+10159,Chen Nguyen,chennguyen145@outlook.com,IN,08-06-2020,586,SUSPENDED,verified,2022-01-12,1622.5,USD
+10524,Karthik Patel,karthikpatel853@gmail.com,,2021-13-01,674,INACTIVE,,24-09-2022,3222.43,USD
+10035,Nina Lee,ninalee305@outlook.com,U.S.,09-17-21,610,INACTIVE,FAILED,2023-11-08,190.34,USD
+10540,Asha Singh,bad-email@@,india,15-02-2022,646,ACTIVE,,2024/02/12,2872.98,USD
+10170,Ravi Wilson,raviwilson168@company.com,India,2023-11-11,693,INACTIVE,PENDING,25-11-2023,-95.73,
+10654,Asha Wilson,ashawilson827@gmail.com,India,2021-08-19,655,,PENDING,2023/09/20,2649.5,INR 
+10970,Chen Johnson,chenjohnson931@yahoo.com,india,01-04-20,653,ACTIVE,FAILED,2023/05/30,2816.58,usd
+10923,Chen Smith,chensmith69@company.com,U.S.,13-03-2022,713,ACTIVE,,27-02-2022,4837.96,INR 
+10913,John Brown,johnbrown523@outlook.com,India,2021-05-12,,active,verified,14-08-2022,1264.27,
+10899,Arjun Nguyen,bad-email@@,United States of America,2021-06-09,674,INACTIVE,verified,14-03-2023,4517.98,INR
+10733,John Brown,johnbrown446@yahoo.com,United States,07-10-22,775,ACTIVE,PENDING,2024/07/14,3507.03,usd
+10095,John Shah,johnshah54@yahoo.com,US,26/04/2022,abc,,PENDING,2023/02/21,837.17,usd
+10563,Miguel Brown,miguelbrown963@yahoo.com,USA,2020-03-14,714,SUSPENDED,FAILED,25-01-2022,1216.78,USD
+10240,Alice Patel,alicepatel183@yahoo.com,USA,2021-02-17,710,,,2023-12-20,2950.96,USD
+10742,Nina Singh,ninasingh816@gmail.com,USA,11-03-20,670,INACTIVE,VERIFIED,2022-01-03,4915.25,usd
+10863,Arjun Singh,arjunsingh27@outlook.com,India,07-16-22,,,FAILED,2022-04-15,1648.97,INR
+10574,Asha Singh,ashasingh702@company.com,US,2023/02/16,641,SUSPENDED,verified,2022-08-07,730.83,
+10690,Chen Brown,,India,22/07/2022,729,ACTIVE,VERIFIED,23-02-2022,537.11,
+10460,Ravi Shah,ravishah198@yahoo.com,United States of America,2020-07-21,626,,PENDING,2022/02/14,1113.13,EURO
+10553,Li Nguyen,linguyen305@yahoo.com,United States of America,2021-11-29,648,SUSPENDED,verified,2022-11-23,,
+10857,Meera Iyer,,United States of America,12-01-2023,700,SUSPENDED,VERIFIED,20-05-2024,3955.77,INR
+10944,Omar Smith,omarsmith235@outlook.com,United States of America,07/09/2023,649,SUSPENDED,,16-03-2022,1715.09,INR 
+10206,John Garcia,johngarcia670@outlook.com,United States,2022/01/19,729,,VERIFIED,2023-02-11,4209.51,EURO
+10392,Miguel Nguyen,miguelnguyen465@gmail.com,,11-03-21,639,INACTIVE,,2022/05/10,2303.28,EURO
+10794,Chen Das,chendas439@outlook.com,U.S.,04-04-20,200,INACTIVE,VERIFIED,2023/06/17,4399.61,USD
+10870,Li Nguyen,linguyen370@outlook.com,india,2023/11/28,779,ACTIVE,PENDING,02-05-2024,877.14,usd
+10397,Ravi Singh,ravisingh959@company.com,india,2021/09/16,704,,verified,2024-06-18,4605.61,INR
+10766,Miguel Wilson,,United States of America,09/12/2022,790,ACTIVE,verified,2024-03-15,1608.78,
+10914,Miguel Kim,miguelkim332@outlook.com,United States,28-06-2020,636,INACTIVE,verified,2023-11-19,4400.67,INR
+10217,Nina Smith,ninasmith629@outlook.com,,2021-13-01,666,ACTIVE,PENDING,20-05-2024,-25.23,EURO
+10004,Meera Rao,meerarao920@outlook.com,U.S.,11-01-2022,718,INACTIVE,PENDING,22-03-2024,1784.42,INR 
+10768,David Wilson,davidwilson21@outlook.com,US,2023-03-07,663,,,12-08-2023,3063.1,EURO
+10642,Chen Smith,chensmith368@company.com,IN,22-12-2021,531,INACTIVE,PENDING,26-07-2023,3651.66,usd
+10964,Chen Kumar,,,2021/08/29,743,ACTIVE,VERIFIED,2023-04-11,488.49,USD
+10612,Alice Das,alicedas915@company.com,,2022/08/21,685,active,FAILED,2023-10-16,365.3,INR
+10738,Meera Iyer,meeraiyer117@outlook.com,US,2023/10/02,683,SUSPENDED,,26-07-2023,3257.7,EURO
+10546,Omar Singh,omarsingh622@company.com,IN,2021/11/17,638,SUSPENDED,VERIFIED,25-10-2022,,EURO
+10725,Arjun Wilson,arjunwilson211@company.com,United States of America,,708,INACTIVE,FAILED,28-05-2022,3353.05,INR
+10985,Alice Nguyen,alicenguyen120@outlook.com,United States of America,2022-10-27,620,SUSPENDED,FAILED,08-11-2023,4951.51,
+10683,Miguel Iyer,migueliyer430@outlook.com,USA,12/10/2020,717,INACTIVE,PENDING,2023-08-31,1834.72,INR
+10098,Omar Kim,omarkim89@company.com,U.S.,2023-10-02,560,INACTIVE,verified,2024/02/11,3558.99,USD
+10804,Arjun Nguyen,arjunnguyen57@gmail.com,US,03-03-22,756,ACTIVE,VERIFIED,26-08-2024,3171.08,USD
+10727,Arjun Smith,arjunsmith92@outlook.com,U.S.,06/06/2021,693,,,2023-09-06,4891.64,usd
+10573,Chen Iyer,cheniyer513@company.com,US,05-08-21,594,SUSPENDED,,2022-03-22,4716.55,usd
+10406,Alice Kumar,,,2020-12-29,,INACTIVE,VERIFIED,2024/07/22,1313.75,EURO
+10502,,user921@company.com,india,2023-02-24,762,,VERIFIED,2023/08/11,2063.07,usd
+10047,Nina Brown,ninabrown23@company.com,U.S.,2021-07-16,562,active,FAILED,05-03-2024,938.82,INR
+10032,Nina Brown,ninabrown764@outlook.com,,08/11/2021,647,ACTIVE,,2024-08-31,3640.74,usd
+10779,Chen Brown,chenbrown31@company.com,USA,2020-01-24,671,INACTIVE,,2022-03-25,3987.94,INR 
+10839,Priya Patel,priyapatel893@yahoo.com,US,16-02-2020,703,ACTIVE,VERIFIED,2022/11/07,3621.6,INR
+10200,Ravi Das,ravidas933@yahoo.com,India,2022/04/14,634,ACTIVE,,06-03-2022,,USD
+10134,Chen Patel,chenpatel466@company.com,United States of America,2021-13-01,683,active,FAILED,20-05-2024,4834.27,INR
+10027,Chen Kim,chenkim259@outlook.com,US,2022-08-21,767,ACTIVE,VERIFIED,2024-08-30,1040.43,INR 
+10946,Chen Kumar,,United States,09-06-2022,652,ACTIVE,PENDING,2022-11-11,3709.87,INR 
+10230,Karthik Iyer,karthikiyer606@yahoo.com,United States of America,07-16-23,689,INACTIVE,VERIFIED,2023/03/29,1378.58,USD
+10489,Asha Kumar,ashakumar38@gmail.com,india,2021/01/19,699,INACTIVE,,invalid_date,-115.81,usd
+10772,Alice Das,alicedas46@yahoo.com,United States of America,12/11/2023,abc,active,PENDING,2024/03/25,2419.24,INR
+10378,Omar Patel,omarpatel981@gmail.com,,,685,SUSPENDED,PENDING,09-09-2022,3995.99,EURO
+10288,Nina Singh,ninasingh752@yahoo.com,india,30/11/2022,abc,ACTIVE,VERIFIED,13-01-2022,2118.9,INR
+10418,Meera Kim,meerakim757@outlook.com,IN,01/10/2020,,active,FAILED,invalid_date,1522.61,INR
+10674,Alice Kim,alicekim300@company.com,US,12-27-21,666,SUSPENDED,FAILED,16-07-2022,-78.09,usd
+10391,Ravi Smith,ravismith626@company.com,U.S.,2020-05-14,684,active,PENDING,04-06-2024,2157.74,INR 
+10592,David Brown,davidbrown652@company.com,USA,2023-05-05,735,ACTIVE,PENDING,2024/01/15,1228.42,INR 
+10498,Nina Garcia,,,,,,PENDING,2022-08-10,-46.61,INR
+10138,Omar Kumar,,USA,03-06-2023,698,active,PENDING,2022-03-30,2865.78,INR 
+10062,Meera Garcia,meeragarcia74@company.com,U.S.,2021-13-01,699,,verified,2023/12/28,-91.55,usd
+10471,Chen Kim,chenkim883@gmail.com,United States,05-09-2023,754,ACTIVE,VERIFIED,15-08-2023,270.32,INR
+10647,Li Das,lidas442@company.com,IN,16-01-2022,643,INACTIVE,,16-08-2023,2583.87,USD
+10128,Asha Shah,ashashah689@gmail.com,United States,2021-10-03,793,,PENDING,2023-08-12,2594.37,
+10328,Meera Brown,meerabrown126@outlook.com,india,2022/05/19,605,active,verified,07-02-2022,2843.05,INR
+10520,Chen Lee,chenlee309@yahoo.com,India,24/06/2020,703,active,VERIFIED,22-05-2022,4661.38,
+10838,Li Kim,likim243@yahoo.com,,2022-03-18,647,ACTIVE,FAILED,2022/11/06,4036.3,EURO
+10139,Arjun Brown,arjunbrown255@gmail.com,,05-15-23,abc,SUSPENDED,PENDING,2024-01-31,1230.53,USD
+10064,Asha Shah,ashashah263@yahoo.com,india,12-21-20,,active,verified,12-02-2024,4605.6,EURO
+10812,Nina Das,ninadas805@outlook.com,,2024/01/12,657,active,PENDING,2024-07-10,-119.6,USD
+10014,Omar Wilson,omarwilson962@gmail.com,United States,2021-06-25,652,SUSPENDED,PENDING,2023/12/05,1105.83,USD
+10156,Sara Nguyen,saranguyen857@yahoo.com,United States of America,15/01/2023,,,PENDING,2022-01-21,2993.5,INR
+10040,John Lee,johnlee449@company.com,United States of America,2020-09-05,791,,verified,2022-04-06,410.82,INR
+10492,Priya Garcia,priyagarcia974@outlook.com,US,2021/12/19,999,INACTIVE,,18-10-2022,4160.12,INR 
+10379,Nina Smith,ninasmith448@company.com,United States,2022-04-29,715,INACTIVE,FAILED,2022-05-28,4751.26,
+10187,Karthik Shah,karthikshah471@gmail.com,United States of America,2023/03/19,791,ACTIVE,VERIFIED,18-02-2023,4094.73,EURO
+10763,David Shah,bad-email@@,US,04-10-22,666,ACTIVE,PENDING,2022-05-16,3673.38,
+10216,Meera Iyer,meeraiyer220@gmail.com,,31/03/2022,708,ACTIVE,VERIFIED,23-04-2024,133.22,INR
+10921,Sara Kim,,India,2021-13-01,702,,PENDING,2024/08/15,1869.0,EURO
+10791,Alice Garcia,alicegarcia251@gmail.com,U.S.,2021/11/14,745,active,VERIFIED,2024-06-22,2970.66,usd
+10052,,user876@yahoo.com,IN,22/07/2020,673,ACTIVE,verified,04-04-2022,4849.69,USD
+10878,David Brown,davidbrown49@company.com,USA,2023/10/16,636,INACTIVE,VERIFIED,2022-04-25,3507.21,INR 
+10337,John Garcia,johngarcia155@yahoo.com,India,2022/06/10,,INACTIVE,verified,01-10-2022,3371.65,INR
+10748,Priya Johnson,priyajohnson40@outlook.com,USA,17/07/2023,abc,active,,2022/07/26,4260.43,
+10719,Sara Johnson,sarajohnson286@outlook.com,India,2023/05/09,696,SUSPENDED,PENDING,05-12-2023,1469.94,INR 
+10724,Alice Patel,alicepatel471@yahoo.com,United States,,723,active,verified,2022-08-07,2109.49,INR
+10295,Arjun Patel,arjunpatel547@outlook.com,United States of America,2020-02-03,741,,verified,20-08-2024,2812.6,USD
+10701,Meera Lee,meeralee895@gmail.com,U.S.,2023/02/18,653,SUSPENDED,verified,2024-04-20,4489.47,
+10251,Chen Johnson,chenjohnson712@yahoo.com,USA,02-10-22,661,,FAILED,2022-02-24,3233.94,
+10726,Meera Lee,meeralee733@yahoo.com,India,2021/04/17,,,PENDING,2023/10/23,-86.23,EURO
+10461,Miguel Brown,miguelbrown70@outlook.com,United States of America,05-08-22,,,FAILED,2023/12/15,,EURO
+10455,Chen Das,chendas135@outlook.com,US,2020-08-08,,INACTIVE,VERIFIED,2023/11/26,3634.64,INR 
+10270,David Kumar,,USA,,682,active,,2022-11-14,310.91,EURO
+10815,John Wilson,bad-email@@,india,09-18-23,658,INACTIVE,FAILED,22-06-2024,2678.41,USD
+10862,Omar Kim,omarkim342@yahoo.com,U.S.,2021-12-26,704,active,PENDING,27-10-2022,3450.46,usd
+10269,Ravi Johnson,ravijohnson642@outlook.com,,12-05-20,692,SUSPENDED,VERIFIED,2022/10/06,1732.23,usd
+10527,Li Garcia,ligarcia361@yahoo.com,IN,30-07-2022,701,active,,2023/12/10,2519.98,EURO
+10201,Karthik Patel,karthikpatel289@gmail.com,United States of America,2022/02/20,626,,FAILED,2024/09/10,4553.68,
+10161,Ravi Kim,ravikim347@gmail.com,United States of America,2023-12-13,616,SUSPENDED,PENDING,24-09-2024,4612.98,EURO
+10555,Karthik Das,karthikdas983@gmail.com,,2021-13-01,abc,INACTIVE,FAILED,2024/08/22,2508.65,INR 
+10729,Nina Shah,ninashah296@yahoo.com,,2022/08/21,708,ACTIVE,VERIFIED,2022-10-03,3851.11,EURO
+10401,Arjun Iyer,arjuniyer325@outlook.com,India,2022-02-22,694,,,2023/07/14,311.73,USD
+10702,Ravi Brown,ravibrown595@yahoo.com,U.S.,2022/02/01,702,,verified,2023-01-04,4400.82,usd
+10476,,user568@outlook.com,India,03-17-23,682,active,PENDING,31-01-2024,1839.91,
+10821,Nina Lee,ninalee105@company.com,india,2022-10-30,699,SUSPENDED,verified,2024/08/30,,usd
+10771,Li Patel,,,22-06-2022,999,ACTIVE,FAILED,2023/10/21,286.11,INR
+10105,,user251@gmail.com,USA,2022/04/03,734,SUSPENDED,PENDING,15-04-2024,2909.17,
+10565,Chen Brown,chenbrown281@company.com,United States of America,2021-02-19,698,active,,13-10-2022,1071.99,USD
+10389,Miguel Nguyen,miguelnguyen707@yahoo.com,U.S.,01-06-2020,,ACTIVE,VERIFIED,2023-05-07,3056.74,usd
+10001,Sara Johnson,sarajohnson105@company.com,US,2022-02-17,709,ACTIVE,verified,22-03-2022,4280.88,EURO
+10859,Ravi Kumar,ravikumar535@company.com,,04-22-21,633,ACTIVE,verified,2024-05-17,4181.45,USD
+10974,Li Das,lidas681@company.com,United States,2020/03/28,648,,verified,16-07-2024,2423.88,USD
+10561,Sara Johnson,sarajohnson436@outlook.com,U.S.,2021-06-17,778,active,PENDING,10-08-2023,3051.49,EURO
+10931,,user377@yahoo.com,US,28-06-2021,692,,,2022-07-20,4046.21,usd
+10080,Chen Patel,chenpatel322@outlook.com,India,2021-13-01,608,ACTIVE,FAILED,2024/03/04,2981.76,
+10205,Priya Garcia,,US,28-07-2021,696,ACTIVE,,invalid_date,1906.7,EURO
+10034,Priya Brown,priyabrown117@outlook.com,US,2022/03/31,,INACTIVE,,2024-08-29,3775.11,EURO
+10942,Li Wilson,liwilson183@yahoo.com,IN,2022-04-09,681,ACTIVE,verified,06-09-2022,2289.7,INR
+10775,,user112@outlook.com,US,18-11-2020,680,,,24-06-2024,4569.12,usd
+10508,Li Wilson,liwilson62@outlook.com,india,27-01-2020,609,,,2024/05/29,3207.5,EURO
+10427,Li Kumar,likumar452@outlook.com,US,27-07-2023,200,active,verified,2023-11-20,3709.35,USD
+10454,Sara Rao,sararao114@yahoo.com,india,2021-08-06,700,active,FAILED,02-05-2022,3345.03,INR
+10584,David Smith,davidsmith432@gmail.com,U.S.,,712,,,2024/03/23,2115.53,USD
+10366,Chen Nguyen,chennguyen844@gmail.com,,03-26-20,745,SUSPENDED,verified,20-02-2024,602.34,usd
+10091,Omar Das,omardas739@yahoo.com,USA,2023/04/10,773,INACTIVE,VERIFIED,2023-08-10,2093.4,INR 
+10339,David Wilson,,U.S.,2022-01-14,650,,VERIFIED,19-06-2023,4644.09,usd
+10897,Omar Kim,omarkim735@company.com,United States of America,2021-05-07,687,SUSPENDED,VERIFIED,2023/05/09,3135.7,USD
+10564,Arjun Shah,arjunshah883@company.com,US,2020-06-05,abc,,,30-07-2024,1833.84,EURO
+10345,Omar Nguyen,omarnguyen87@yahoo.com,U.S.,22-01-2022,200,,,2023-10-04,830.98,
+10776,Ravi Wilson,raviwilson977@yahoo.com,United States of America,20-05-2022,678,ACTIVE,PENDING,20-02-2023,273.33,EURO
+10241,,user480@gmail.com,USA,01-09-22,710,,FAILED,invalid_date,1380.3,INR
+10013,,user76@gmail.com,,03-12-21,712,INACTIVE,verified,2024/05/03,4933.61,
+10315,Priya Brown,priyabrown931@gmail.com,IN,25-03-2022,abc,SUSPENDED,FAILED,12-11-2022,3584.84,INR 
+10600,Miguel Patel,miguelpatel421@outlook.com,india,2023-07-27,682,active,VERIFIED,2022-11-29,2253.95,USD
+10387,Meera Shah,meerashah67@yahoo.com,United States,13-05-2020,717,INACTIVE,VERIFIED,20-09-2024,3339.54,INR 
+10273,Nina Kim,ninakim30@yahoo.com,United States of America,2023-10-15,718,,verified,2023/09/24,3507.07,
+10166,Karthik Singh,karthiksingh940@outlook.com,USA,12-05-23,633,,VERIFIED,2024-08-05,4310.87,usd
+10840,Asha Lee,ashalee85@outlook.com,india,11-07-23,677,INACTIVE,VERIFIED,01-08-2022,4792.59,INR 
+10020,Arjun Shah,arjunshah631@yahoo.com,India,04-11-22,619,SUSPENDED,verified,2023-03-29,3927.42,
+10646,Meera Lee,meeralee149@yahoo.com,USA,30-08-2021,702,,PENDING,27-02-2023,3061.73,INR 
+10818,Omar Garcia,,United States,29-10-2023,716,active,verified,16-01-2024,-0.76,
+10484,Miguel Kim,bad-email@@,USA,2021-13-01,722,active,VERIFIED,2022/08/17,1614.48,INR 
+10312,Omar Das,omardas325@gmail.com,United States,21/06/2022,687,INACTIVE,PENDING,22-08-2022,4111.11,USD
+10504,Arjun Smith,arjunsmith346@gmail.com,USA,2020/05/22,721,active,VERIFIED,2023/07/24,1845.3,
+10831,John Kim,,india,30/04/2022,716,active,verified,16-06-2023,3892.0,usd
+10243,Karthik Brown,karthikbrown956@outlook.com,IN,10-07-21,911,SUSPENDED,,2022-09-04,2661.24,
+10566,Li Singh,lisingh464@gmail.com,india,2023-03-29,864,SUSPENDED,PENDING,2024-04-09,680.13,INR 
+10875,David Rao,davidrao547@company.com,,,642,,,2023/02/10,464.83,USD
+10562,Ravi Nguyen,ravinguyen822@gmail.com,U.S.,03/07/2020,665,SUSPENDED,,23-07-2022,3532.67,usd
+10235,John Lee,johnlee485@yahoo.com,U.S.,27/10/2023,713,ACTIVE,VERIFIED,17-01-2024,3575.82,
+10686,Sara Rao,sararao650@company.com,United States of America,07-28-21,694,,PENDING,2023-12-27,1095.32,EURO
+10957,Alice Kumar,alicekumar342@outlook.com,U.S.,12-30-21,691,active,VERIFIED,2023-07-23,2969.32,USD
+10189,David Garcia,davidgarcia919@gmail.com,United States,05-10-2022,608,ACTIVE,verified,2022-08-09,360.38,INR 
+10975,,user722@yahoo.com,United States,2020-05-11,654,SUSPENDED,,2023-11-10,2599.3,INR 
+10699,Miguel Das,migueldas902@gmail.com,United States of America,2020-12-23,663,SUSPENDED,FAILED,2022/01/24,3397.37,INR
+10510,John Iyer,johniyer122@company.com,,21/06/2020,663,SUSPENDED,FAILED,invalid_date,4625.7,INR
+10474,Meera Smith,meerasmith387@yahoo.com,USA,2023/11/26,680,INACTIVE,VERIFIED,2022-05-31,-135.12,INR 
+10856,Meera Wilson,meerawilson216@yahoo.com,,10-03-23,681,ACTIVE,VERIFIED,2023/12/30,2040.09,
+10747,Priya Iyer,priyaiyer461@company.com,United States,2021/10/31,729,INACTIVE,FAILED,2023/03/02,4397.94,INR
+10252,Omar Brown,bad-email@@,U.S.,2021/04/18,725,ACTIVE,PENDING,2022/07/23,3504.84,USD
+10021,Alice Johnson,alicejohnson96@company.com,india,09/10/2023,,INACTIVE,verified,2023-09-18,4407.91,EURO
+10459,David Patel,,USA,10-30-23,645,,,12-09-2023,2838.5,USD
+10276,Arjun Nguyen,arjunnguyen998@yahoo.com,United States of America,2022-02-25,640,SUSPENDED,,12-12-2023,3644.71,
+10955,Priya Rao,priyarao103@company.com,india,2020-11-18,653,INACTIVE,VERIFIED,2024-05-31,1367.06,EURO
+10385,Chen Kim,chenkim914@gmail.com,United States of America,2023-10-08,727,ACTIVE,VERIFIED,2023-04-19,951.91,USD
+10805,Nina Patel,ninapatel418@outlook.com,United States,07-13-23,723,SUSPENDED,PENDING,2023-10-15,2091.38,EURO
+10343,Priya Iyer,priyaiyer735@company.com,U.S.,24-07-2020,701,SUSPENDED,verified,invalid_date,3136.28,
+10769,,user582@outlook.com,IN,2020/01/03,613,SUSPENDED,,24-07-2022,2928.18,EURO
+10130,Alice Nguyen,,india,2021-08-21,695,active,,2023-06-08,2624.15,usd
+10871,Li Shah,lishah336@company.com,IN,,,,FAILED,06-04-2024,1101.13,USD
+10087,Miguel Nguyen,miguelnguyen511@yahoo.com,,2022/08/14,,active,,2023-04-14,53.02,usd
+10330,Meera Johnson,meerajohnson556@company.com,IN,2021-13-01,562,ACTIVE,verified,2023/04/06,-12.9,INR
+10466,Ravi Iyer,raviiyer584@yahoo.com,United States of America,,750,,PENDING,2022/03/13,4527.48,INR 
+10121,Li Lee,lilee992@outlook.com,IN,2021/08/19,595,SUSPENDED,VERIFIED,12-08-2024,735.62,EURO
+10299,Priya Singh,priyasingh611@gmail.com,United States,2024/01/08,756,,VERIFIED,2023-12-27,3723.63,EURO
+10860,Ravi Wilson,raviwilson610@company.com,U.S.,2020-07-06,691,INACTIVE,,18-11-2023,3576.27,INR 

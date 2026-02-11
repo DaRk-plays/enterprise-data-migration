@@ -1,0 +1,7 @@
+customer_id,full_name,email,country,signup_date,credit_score
+101,John Smith,john@gmail.com,USA,2021-12-01,720
+102,,alice@yahoo.com,US,15-11-2021,
+103,Ravi Kumar,ravi@company.com,India,2021-13-01,680
+104,Meera Patel,,india,2021-10-05,700
+101,John Smith,john@gmail.com,USA,2021-12-01,720
+105,David Lee,david@gmail.com,United States,2021/09/15,650
