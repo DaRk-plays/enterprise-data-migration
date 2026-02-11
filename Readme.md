@@ -37,6 +37,7 @@ This pipeline enforces all of the above.
 
 ##  Architecture
 
+![Architecture Diagram](images/Arch.png)
 
 ---
 
