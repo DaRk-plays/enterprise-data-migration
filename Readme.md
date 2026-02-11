@@ -1,4 +1,4 @@
-# 🏢 Enterprise Data Migration & Validation Pipeline
+# Enterprise Data Migration & Validation Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-green)
@@ -37,7 +37,14 @@ This pipeline enforces all of the above.
 
 ##  Architecture
 
-![Architecture Diagram](images/Arch.png)
+<p align="center">
+  <img src="images/Arch.png" width="700"/>
+</p>
+
+<p align="center">
+  <i>End-to-end enterprise migration workflow with validation, audit tracking, and reconciliation enforcement</i>
+</p>
+
 
 ---
 
@@ -57,7 +64,7 @@ This pipeline enforces all of the above.
 
 ### Schema-Level Enforcement (SQLite)
 
-```sql
+sql
 PRIMARY KEY (run_id, customer_id)
 UNIQUE (run_id, email)
 CHECK (balance >= 0)
@@ -98,22 +105,22 @@ enterprise-data-migration/
 
 ## How To Run
 
-### 1️⃣ Generate Legacy Data
+### Generate Legacy Data
 notebooks/00_generate_legacy_data.ipynb
 
-### 2️⃣ Profile Data
+### Profile Data
 notebooks/01_data_profiling.ipynb
 
-### 3️⃣ Clean & Transform
+### Clean & Transform
 notebooks/02_clean_transform.ipynb
 
-### 4️⃣ Load to SQLite (Schema + Constraints)
+### Load to SQLite (Schema + Constraints)
 notebooks/03_load_to_sqlite.ipynb
 
-### 5️⃣ Validate & Reconcile
+### Validate & Reconcile
 notebooks/04_validation.ipynb
 
-### 6️⃣ Generate Critical Data Quality Report
+### Generate Critical Data Quality Report
 notebooks/05_generate_critical_report.ipynb
 
 This project reflects real-world migration systems used in:
